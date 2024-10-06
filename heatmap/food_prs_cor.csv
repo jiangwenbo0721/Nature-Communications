@@ -1,0 +1,103 @@
+prs,food_consumption_group,cor
+bacon_prs,Condiments and Snacks,0.00089
+bacon_prs,Vegetables,-0.0017
+bacon_prs,Red Meat,0.0076
+bacon_prs,Alcoholic Beverages,0.011
+bacon_prs,White Meat,-0.00083
+bacon_prs,Seafood and Fish,-0.0053
+bacon_prs,Grains and Breads,-0.0047
+bacon_prs,Sweets and Desserts,0.0043
+bacon_prs,Caffeinated Drinks,0.014
+bacon_prs,Decaffeinated Drinks,-0.0066
+bacon_prs,Dairy,0.01
+bacon_prs,Fruits,-0.01
+bacon_prs,Nuts and Seeds,-0.0072
+bacon_prs,Meat Substitutes,0.0007
+bacon_prs,Potatoes and Starchy Foods,0.013
+bacon_prs,Juices and Plant-based Drinks,-0.011
+bacon_prs,Sugary and Non-sugar Drinks,-0.0051
+broccoli_prs,Condiments and Snacks,0.0085
+broccoli_prs,Vegetables,0.0099
+broccoli_prs,Red Meat,0.0071
+broccoli_prs,Alcoholic Beverages,0.0094
+broccoli_prs,White Meat,0.0019
+broccoli_prs,Seafood and Fish,0.0011
+broccoli_prs,Grains and Breads,-0.0024
+broccoli_prs,Sweets and Desserts,0.019
+broccoli_prs,Caffeinated Drinks,0.022
+broccoli_prs,Decaffeinated Drinks,-0.0084
+broccoli_prs,Dairy,0.016
+broccoli_prs,Fruits,0.0023
+broccoli_prs,Nuts and Seeds,0.00079
+broccoli_prs,Meat Substitutes,0.0018
+broccoli_prs,Potatoes and Starchy Foods,0.022
+broccoli_prs,Juices and Plant-based Drinks,0.0003
+broccoli_prs,Sugary and Non-sugar Drinks,-0.0046
+diet_fizzy_drink_prs,Condiments and Snacks,-0.0017
+diet_fizzy_drink_prs,Vegetables,0.003
+diet_fizzy_drink_prs,Red Meat,-0.0014
+diet_fizzy_drink_prs,Alcoholic Beverages,-0.005
+diet_fizzy_drink_prs,White Meat,0.00052
+diet_fizzy_drink_prs,Seafood and Fish,-0.0021
+diet_fizzy_drink_prs,Grains and Breads,0.00079
+diet_fizzy_drink_prs,Sweets and Desserts,0.007
+diet_fizzy_drink_prs,Caffeinated Drinks,0.0086
+diet_fizzy_drink_prs,Decaffeinated Drinks,-0.0036
+diet_fizzy_drink_prs,Dairy,0.012
+diet_fizzy_drink_prs,Fruits,0.0029
+diet_fizzy_drink_prs,Nuts and Seeds,0.0026
+diet_fizzy_drink_prs,Meat Substitutes,-0.00031
+diet_fizzy_drink_prs,Potatoes and Starchy Foods,-0.0029
+diet_fizzy_drink_prs,Juices and Plant-based Drinks,-0.00052
+diet_fizzy_drink_prs,Sugary and Non-sugar Drinks,0.01
+lentils_beans_prs,Condiments and Snacks,0.00097
+lentils_beans_prs,Vegetables,0.012
+lentils_beans_prs,Red Meat,-0.002
+lentils_beans_prs,Alcoholic Beverages,-0.025
+lentils_beans_prs,White Meat,0.0035
+lentils_beans_prs,Seafood and Fish,0.0092
+lentils_beans_prs,Grains and Breads,0.0055
+lentils_beans_prs,Sweets and Desserts,-0.016
+lentils_beans_prs,Caffeinated Drinks,-0.019
+lentils_beans_prs,Decaffeinated Drinks,0.02
+lentils_beans_prs,Dairy,-0.015
+lentils_beans_prs,Fruits,0.0029
+lentils_beans_prs,Nuts and Seeds,0.013
+lentils_beans_prs,Meat Substitutes,-0.0028
+lentils_beans_prs,Potatoes and Starchy Foods,-0.014
+lentils_beans_prs,Juices and Plant-based Drinks,0.012
+lentils_beans_prs,Sugary and Non-sugar Drinks,0.0022
+pizza_prs,Condiments and Snacks,-0.0029
+pizza_prs,Vegetables,-0.0077
+pizza_prs,Red Meat,-0.0048
+pizza_prs,Alcoholic Beverages,0.025
+pizza_prs,White Meat,-0.0038
+pizza_prs,Seafood and Fish,-0.0065
+pizza_prs,Grains and Breads,-0.0047
+pizza_prs,Sweets and Desserts,0.019
+pizza_prs,Caffeinated Drinks,0.01
+pizza_prs,Decaffeinated Drinks,-0.015
+pizza_prs,Dairy,0.012
+pizza_prs,Fruits,0.0037
+pizza_prs,Nuts and Seeds,-0.011
+pizza_prs,Meat Substitutes,0.0015
+pizza_prs,Potatoes and Starchy Foods,0.01
+pizza_prs,Juices and Plant-based Drinks,-0.0071
+pizza_prs,Sugary and Non-sugar Drinks,-0.0029
+prawns_prs,Condiments and Snacks,-0.006
+prawns_prs,Vegetables,-0.0021
+prawns_prs,Red Meat,-0.0013
+prawns_prs,Alcoholic Beverages,-0.0086
+prawns_prs,White Meat,0.0045
+prawns_prs,Seafood and Fish,0.00041
+prawns_prs,Grains and Breads,0.0047
+prawns_prs,Sweets and Desserts,-0.0046
+prawns_prs,Caffeinated Drinks,-0.017
+prawns_prs,Decaffeinated Drinks,0.012
+prawns_prs,Dairy,-0.0079
+prawns_prs,Fruits,0.0068
+prawns_prs,Nuts and Seeds,-0.0019
+prawns_prs,Meat Substitutes,-0.0057
+prawns_prs,Potatoes and Starchy Foods,-0.013
+prawns_prs,Juices and Plant-based Drinks,0.0033
+prawns_prs,Sugary and Non-sugar Drinks,0.003

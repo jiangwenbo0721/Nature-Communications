@@ -1,0 +1,103 @@
+food_liking,food_consumption_group,p
+bacon_like,Condiments and Snacks,2.64E-135
+bacon_like,Vegetables,1.08E-286
+bacon_like,Red Meat,0
+bacon_like,Alcoholic Beverages,5.31E-264
+bacon_like,White Meat,3.45E-224
+bacon_like,Seafood and Fish,2.65E-37
+bacon_like,Grains and Breads,1.21E-34
+bacon_like,Sweets and Desserts,1.4E-34
+bacon_like,Caffeinated Drinks,5.87E-170
+bacon_like,Decaffeinated Drinks,0
+bacon_like,Dairy,7.42E-10
+bacon_like,Fruits,0
+bacon_like,Nuts and Seeds,2.21E-152
+bacon_like,Meat Substitutes,1.09E-116
+bacon_like,Potatoes and Starchy Foods,9.07E-135
+bacon_like,Juices and Plant-based Drinks,0
+bacon_like,Sugary and Non-sugar Drinks,9.47E-92
+broccoli_like,Condiments and Snacks,9.78E-37
+broccoli_like,Vegetables,0
+broccoli_like,Red Meat,5E-71
+broccoli_like,Alcoholic Beverages,8.77E-52
+broccoli_like,White Meat,0.043
+broccoli_like,Seafood and Fish,6.8E-32
+broccoli_like,Grains and Breads,0.00404
+broccoli_like,Sweets and Desserts,1.5E-78
+broccoli_like,Caffeinated Drinks,0.00599
+broccoli_like,Decaffeinated Drinks,0
+broccoli_like,Dairy,0.0361
+broccoli_like,Fruits,7.86E-164
+broccoli_like,Nuts and Seeds,5.46E-54
+broccoli_like,Meat Substitutes,0.0000033
+broccoli_like,Potatoes and Starchy Foods,3.41E-09
+broccoli_like,Juices and Plant-based Drinks,3.56E-85
+broccoli_like,Sugary and Non-sugar Drinks,3.06E-97
+diet_fizzy_drink_like,Condiments and Snacks,1.1E-13
+diet_fizzy_drink_like,Vegetables,6.22E-298
+diet_fizzy_drink_like,Red Meat,6.79E-64
+diet_fizzy_drink_like,Alcoholic Beverages,0.176
+diet_fizzy_drink_like,White Meat,3.84E-94
+diet_fizzy_drink_like,Seafood and Fish,1.13E-93
+diet_fizzy_drink_like,Grains and Breads,1.64E-32
+diet_fizzy_drink_like,Sweets and Desserts,4E-60
+diet_fizzy_drink_like,Caffeinated Drinks,4.63E-19
+diet_fizzy_drink_like,Decaffeinated Drinks,3.44E-204
+diet_fizzy_drink_like,Dairy,0.000000741
+diet_fizzy_drink_like,Fruits,2.53E-181
+diet_fizzy_drink_like,Nuts and Seeds,7.43E-203
+diet_fizzy_drink_like,Meat Substitutes,7.2E-19
+diet_fizzy_drink_like,Potatoes and Starchy Foods,3.69E-13
+diet_fizzy_drink_like,Juices and Plant-based Drinks,2.03E-121
+diet_fizzy_drink_like,Sugary and Non-sugar Drinks,0
+lentils_beans_like,Condiments and Snacks,1.33E-29
+lentils_beans_like,Vegetables,0
+lentils_beans_like,Red Meat,2.37E-171
+lentils_beans_like,Alcoholic Beverages,0.000000253
+lentils_beans_like,White Meat,7.05E-76
+lentils_beans_like,Seafood and Fish,9.76E-18
+lentils_beans_like,Grains and Breads,9.34E-138
+lentils_beans_like,Sweets and Desserts,5.93E-138
+lentils_beans_like,Caffeinated Drinks,0.47
+lentils_beans_like,Decaffeinated Drinks,9.12E-272
+lentils_beans_like,Dairy,2.35E-22
+lentils_beans_like,Fruits,3.86E-238
+lentils_beans_like,Nuts and Seeds,8.12E-271
+lentils_beans_like,Meat Substitutes,2.16E-10
+lentils_beans_like,Potatoes and Starchy Foods,1.86E-64
+lentils_beans_like,Juices and Plant-based Drinks,8.26E-132
+lentils_beans_like,Sugary and Non-sugar Drinks,6.38E-158
+pizza_like,Condiments and Snacks,7.78E-116
+pizza_like,Vegetables,5.21E-254
+pizza_like,Red Meat,0.000222
+pizza_like,Alcoholic Beverages,9.29E-51
+pizza_like,White Meat,0.0449
+pizza_like,Seafood and Fish,5.79E-97
+pizza_like,Grains and Breads,7.24E-131
+pizza_like,Sweets and Desserts,6.55E-100
+pizza_like,Caffeinated Drinks,0.195
+pizza_like,Decaffeinated Drinks,2.91E-96
+pizza_like,Dairy,0.000000111
+pizza_like,Fruits,3.25E-99
+pizza_like,Nuts and Seeds,4.68E-11
+pizza_like,Meat Substitutes,2.76E-64
+pizza_like,Potatoes and Starchy Foods,6.03E-18
+pizza_like,Juices and Plant-based Drinks,1.6E-23
+pizza_like,Sugary and Non-sugar Drinks,2.5E-67
+prawns_like,Condiments and Snacks,0.0313
+prawns_like,Vegetables,4.01E-22
+prawns_like,Red Meat,3.73E-129
+prawns_like,Alcoholic Beverages,1.37E-268
+prawns_like,White Meat,1.15E-63
+prawns_like,Seafood and Fish,0
+prawns_like,Grains and Breads,1.88E-99
+prawns_like,Sweets and Desserts,6.09E-79
+prawns_like,Caffeinated Drinks,0.0204
+prawns_like,Decaffeinated Drinks,1.06E-08
+prawns_like,Dairy,2.34E-20
+prawns_like,Fruits,0.00988
+prawns_like,Nuts and Seeds,0.226
+prawns_like,Meat Substitutes,0
+prawns_like,Potatoes and Starchy Foods,3.23E-12
+prawns_like,Juices and Plant-based Drinks,4.49E-52
+prawns_like,Sugary and Non-sugar Drinks,0.206

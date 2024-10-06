@@ -1,0 +1,103 @@
+food_liking,food_consumption_group,cor
+bacon_like,Condiments and Snacks,0.07
+bacon_like,Vegetables,-0.1
+bacon_like,Red Meat,0.17
+bacon_like,Alcoholic Beverages,0.098
+bacon_like,White Meat,0.091
+bacon_like,Seafood and Fish,-0.036
+bacon_like,Grains and Breads,-0.035
+bacon_like,Sweets and Desserts,0.035
+bacon_like,Caffeinated Drinks,0.079
+bacon_like,Decaffeinated Drinks,-0.12
+bacon_like,Dairy,0.017
+bacon_like,Fruits,-0.11
+bacon_like,Nuts and Seeds,-0.075
+bacon_like,Meat Substitutes,-0.065
+bacon_like,Potatoes and Starchy Foods,0.07
+bacon_like,Juices and Plant-based Drinks,-0.11
+bacon_like,Sugary and Non-sugar Drinks,0.058
+broccoli_like,Condiments and Snacks,-0.036
+broccoli_like,Vegetables,0.18
+broccoli_like,Red Meat,-0.051
+broccoli_like,Alcoholic Beverages,-0.043
+broccoli_like,White Meat,-0.0057
+broccoli_like,Seafood and Fish,0.033
+broccoli_like,Grains and Breads,-0.0082
+broccoli_like,Sweets and Desserts,-0.053
+broccoli_like,Caffeinated Drinks,0.0078
+broccoli_like,Decaffeinated Drinks,0.11
+broccoli_like,Dairy,0.0059
+broccoli_like,Fruits,0.077
+broccoli_like,Nuts and Seeds,0.044
+broccoli_like,Meat Substitutes,-0.013
+broccoli_like,Potatoes and Starchy Foods,-0.017
+broccoli_like,Juices and Plant-based Drinks,0.055
+broccoli_like,Sugary and Non-sugar Drinks,-0.059
+diet_fizzy_drink_like,Condiments and Snacks,0.021
+diet_fizzy_drink_like,Vegetables,-0.1
+diet_fizzy_drink_like,Red Meat,0.048
+diet_fizzy_drink_like,Alcoholic Beverages,-0.0038
+diet_fizzy_drink_like,White Meat,0.058
+diet_fizzy_drink_like,Seafood and Fish,-0.058
+diet_fizzy_drink_like,Grains and Breads,-0.034
+diet_fizzy_drink_like,Sweets and Desserts,0.046
+diet_fizzy_drink_like,Caffeinated Drinks,-0.025
+diet_fizzy_drink_like,Decaffeinated Drinks,-0.086
+diet_fizzy_drink_like,Dairy,0.014
+diet_fizzy_drink_like,Fruits,-0.081
+diet_fizzy_drink_like,Nuts and Seeds,-0.086
+diet_fizzy_drink_like,Meat Substitutes,0.025
+diet_fizzy_drink_like,Potatoes and Starchy Foods,0.021
+diet_fizzy_drink_like,Juices and Plant-based Drinks,-0.066
+diet_fizzy_drink_like,Sugary and Non-sugar Drinks,0.32
+lentils_beans_like,Condiments and Snacks,-0.032
+lentils_beans_like,Vegetables,0.15
+lentils_beans_like,Red Meat,-0.079
+lentils_beans_like,Alcoholic Beverages,0.015
+lentils_beans_like,White Meat,-0.052
+lentils_beans_like,Seafood and Fish,0.024
+lentils_beans_like,Grains and Breads,0.071
+lentils_beans_like,Sweets and Desserts,-0.071
+lentils_beans_like,Caffeinated Drinks,-0.0021
+lentils_beans_like,Decaffeinated Drinks,0.1
+lentils_beans_like,Dairy,-0.028
+lentils_beans_like,Fruits,0.093
+lentils_beans_like,Nuts and Seeds,0.099
+lentils_beans_like,Meat Substitutes,0.018
+lentils_beans_like,Potatoes and Starchy Foods,-0.048
+lentils_beans_like,Juices and Plant-based Drinks,0.069
+lentils_beans_like,Sugary and Non-sugar Drinks,-0.076
+pizza_like,Condiments and Snacks,0.065
+pizza_like,Vegetables,-0.096
+pizza_like,Red Meat,-0.01
+pizza_like,Alcoholic Beverages,0.042
+pizza_like,White Meat,-0.0057
+pizza_like,Seafood and Fish,-0.059
+pizza_like,Grains and Breads,0.069
+pizza_like,Sweets and Desserts,0.06
+pizza_like,Caffeinated Drinks,0.0037
+pizza_like,Decaffeinated Drinks,-0.059
+pizza_like,Dairy,0.015
+pizza_like,Fruits,-0.06
+pizza_like,Nuts and Seeds,-0.019
+pizza_like,Meat Substitutes,0.048
+pizza_like,Potatoes and Starchy Foods,0.024
+pizza_like,Juices and Plant-based Drinks,-0.028
+pizza_like,Sugary and Non-sugar Drinks,0.049
+prawns_like,Condiments and Snacks,0.0061
+prawns_like,Vegetables,0.027
+prawns_like,Red Meat,0.069
+prawns_like,Alcoholic Beverages,0.099
+prawns_like,White Meat,0.048
+prawns_like,Seafood and Fish,0.14
+prawns_like,Grains and Breads,-0.06
+prawns_like,Sweets and Desserts,-0.053
+prawns_like,Caffeinated Drinks,-0.0066
+prawns_like,Decaffeinated Drinks,0.016
+prawns_like,Dairy,-0.026
+prawns_like,Fruits,-0.0073
+prawns_like,Nuts and Seeds,-0.0034
+prawns_like,Meat Substitutes,-0.11
+prawns_like,Potatoes and Starchy Foods,-0.02
+prawns_like,Juices and Plant-based Drinks,-0.043
+prawns_like,Sugary and Non-sugar Drinks,0.0036

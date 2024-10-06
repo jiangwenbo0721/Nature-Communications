@@ -1,0 +1,103 @@
+prs,food_consumption_group,p
+bacon_prs,Condiments and Snacks,0.686
+bacon_prs,Vegetables,0.442
+bacon_prs,Red Meat,0.000554
+bacon_prs,Alcoholic Beverages,0.000000551
+bacon_prs,White Meat,0.705
+bacon_prs,Seafood and Fish,0.0167
+bacon_prs,Grains and Breads,0.0338
+bacon_prs,Sweets and Desserts,0.0483
+bacon_prs,Caffeinated Drinks,1.12E-10
+bacon_prs,Decaffeinated Drinks,0.00262
+bacon_prs,Dairy,0.00000417
+bacon_prs,Fruits,0.00000202
+bacon_prs,Nuts and Seeds,0.001
+bacon_prs,Meat Substitutes,0.75
+bacon_prs,Potatoes and Starchy Foods,1.15E-08
+bacon_prs,Juices and Plant-based Drinks,0.00000166
+bacon_prs,Sugary and Non-sugar Drinks,0.0206
+broccoli_prs,Condiments and Snacks,0.000105
+broccoli_prs,Vegetables,0.0000064
+broccoli_prs,Red Meat,0.00124
+broccoli_prs,Alcoholic Beverages,0.0000179
+broccoli_prs,White Meat,0.377
+broccoli_prs,Seafood and Fish,0.623
+broccoli_prs,Grains and Breads,0.277
+broccoli_prs,Sweets and Desserts,1.96E-17
+broccoli_prs,Caffeinated Drinks,2.19E-24
+broccoli_prs,Decaffeinated Drinks,0.000135
+broccoli_prs,Dairy,1.73E-12
+broccoli_prs,Fruits,0.305
+broccoli_prs,Nuts and Seeds,0.719
+broccoli_prs,Meat Substitutes,0.415
+broccoli_prs,Potatoes and Starchy Foods,6.63E-24
+broccoli_prs,Juices and Plant-based Drinks,0.891
+broccoli_prs,Sugary and Non-sugar Drinks,0.0385
+diet_fizzy_drink_prs,Condiments and Snacks,0.432
+diet_fizzy_drink_prs,Vegetables,0.177
+diet_fizzy_drink_prs,Red Meat,0.513
+diet_fizzy_drink_prs,Alcoholic Beverages,0.0242
+diet_fizzy_drink_prs,White Meat,0.815
+diet_fizzy_drink_prs,Seafood and Fish,0.345
+diet_fizzy_drink_prs,Grains and Breads,0.72
+diet_fizzy_drink_prs,Sweets and Desserts,0.00151
+diet_fizzy_drink_prs,Caffeinated Drinks,0.0000947
+diet_fizzy_drink_prs,Decaffeinated Drinks,0.101
+diet_fizzy_drink_prs,Dairy,0.000000098
+diet_fizzy_drink_prs,Fruits,0.187
+diet_fizzy_drink_prs,Nuts and Seeds,0.24
+diet_fizzy_drink_prs,Meat Substitutes,0.888
+diet_fizzy_drink_prs,Potatoes and Starchy Foods,0.185
+diet_fizzy_drink_prs,Juices and Plant-based Drinks,0.814
+diet_fizzy_drink_prs,Sugary and Non-sugar Drinks,0.00000607
+lentils_beans_prs,Condiments and Snacks,0.661
+lentils_beans_prs,Vegetables,9.86E-08
+lentils_beans_prs,Red Meat,0.355
+lentils_beans_prs,Alcoholic Beverages,7.91E-29
+lentils_beans_prs,White Meat,0.107
+lentils_beans_prs,Seafood and Fish,0.0000274
+lentils_beans_prs,Grains and Breads,0.012
+lentils_beans_prs,Sweets and Desserts,4.57E-13
+lentils_beans_prs,Caffeinated Drinks,6.65E-18
+lentils_beans_prs,Decaffeinated Drinks,1.29E-20
+lentils_beans_prs,Dairy,1.03E-11
+lentils_beans_prs,Fruits,0.188
+lentils_beans_prs,Nuts and Seeds,4.49E-09
+lentils_beans_prs,Meat Substitutes,0.206
+lentils_beans_prs,Potatoes and Starchy Foods,1.13E-10
+lentils_beans_prs,Juices and Plant-based Drinks,6.28E-08
+lentils_beans_prs,Sugary and Non-sugar Drinks,0.313
+pizza_prs,Condiments and Snacks,0.187
+pizza_prs,Vegetables,0.000436
+pizza_prs,Red Meat,0.028
+pizza_prs,Alcoholic Beverages,3.22E-29
+pizza_prs,White Meat,0.0863
+pizza_prs,Seafood and Fish,0.00297
+pizza_prs,Grains and Breads,0.0313
+pizza_prs,Sweets and Desserts,1.28E-17
+pizza_prs,Caffeinated Drinks,0.00000277
+pizza_prs,Decaffeinated Drinks,1.4E-11
+pizza_prs,Dairy,2.28E-08
+pizza_prs,Fruits,0.0955
+pizza_prs,Nuts and Seeds,0.000000353
+pizza_prs,Meat Substitutes,0.49
+pizza_prs,Potatoes and Starchy Foods,0.00000338
+pizza_prs,Juices and Plant-based Drinks,0.00129
+pizza_prs,Sugary and Non-sugar Drinks,0.183
+prawns_prs,Condiments and Snacks,0.00612
+prawns_prs,Vegetables,0.345
+prawns_prs,Red Meat,0.557
+prawns_prs,Alcoholic Beverages,0.0000919
+prawns_prs,White Meat,0.0415
+prawns_prs,Seafood and Fish,0.853
+prawns_prs,Grains and Breads,0.0318
+prawns_prs,Sweets and Desserts,0.0379
+prawns_prs,Caffeinated Drinks,2.68E-14
+prawns_prs,Decaffeinated Drinks,9.98E-08
+prawns_prs,Dairy,0.000328
+prawns_prs,Fruits,0.00202
+prawns_prs,Nuts and Seeds,0.38
+prawns_prs,Meat Substitutes,0.00999
+prawns_prs,Potatoes and Starchy Foods,1.71E-09
+prawns_prs,Juices and Plant-based Drinks,0.13
+prawns_prs,Sugary and Non-sugar Drinks,0.178
