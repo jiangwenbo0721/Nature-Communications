@@ -1,0 +1,403 @@
+food_liking,disease,beta,g_p,sig,yuanshi,category,postive,negative
+Apple juice liking,T2D,-0.344225899,Apple juice liking_T2DP,2.71E-07,apple juice,Fruit,<0.0001,<0.0001
+Apples liking,T2D,-0.153086541,Apples liking_T2DP,0.346297201,apples,Fruit,>0.05,>0.05
+Avocado liking,T2D,-0.330675182,Avocado liking_T2DP,4.83E-10,avocados,Fruit,<0.0001,<0.0001
+Banana liking,T2D,-0.235222186,Banana liking_T2DP,0.004815243,bananas,Fruit,<0.01,<0.01
+Cherry liking,T2D,-0.334326591,Cherry liking_T2DP,0.000112247,cherries,Fruit,<0.001,<0.001
+Dried fruit liking,T2D,-0.56569248,Dried fruit liking_T2DP,1.75E-11,dried fruit,Fruit,<0.0001,<0.0001
+Grapefruit liking,T2D,-0.54448613,Grapefruit liking_T2DP,2.10E-28,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,T2D,-0.128767747,Kiwi liking_T2DP,0.10518888,kiwi fruit,Fruit,>0.05,>0.05
+Lemon liking,T2D,-0.146420852,Lemon liking_T2DP,0.103874385,lemons,Fruit,>0.05,>0.05
+Orange juice liking,T2D,-0.412403496,Orange juice liking_T2DP,2.60E-08,orange juice,Fruit,<0.0001,<0.0001
+Apple juice liking,Stroke,0.061779706,Apple juice liking_StrokeP,0.963241916,apple juice,Fruit,>0.05,>0.05
+Apples liking,Stroke,-0.28203786,Apples liking_StrokeP,0.375802417,apples,Fruit,>0.05,>0.05
+Avocado liking,Stroke,-0.331173498,Avocado liking_StrokeP,0.006296189,avocados,Fruit,<0.01,<0.01
+Banana liking,Stroke,-0.213827222,Banana liking_StrokeP,0.239519965,bananas,Fruit,>0.05,>0.05
+Cherry liking,Stroke,-0.335898174,Cherry liking_StrokeP,0.104110429,cherries,Fruit,>0.05,>0.05
+Dried fruit liking,Stroke,-0.233125983,Dried fruit liking_StrokeP,0.260041009,dried fruit,Fruit,>0.05,>0.05
+Grapefruit liking,Stroke,-0.659768485,Grapefruit liking_StrokeP,6.25E-12,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,Stroke,-0.164257667,Kiwi liking_StrokeP,0.351060751,kiwi fruit,Fruit,>0.05,>0.05
+Lemon liking,Stroke,-0.264740216,Lemon liking_StrokeP,0.179284462,lemons,Fruit,>0.05,>0.05
+Orange juice liking,Stroke,-0.029834832,Orange juice liking_StrokeP,0.860023831,orange juice,Fruit,>0.05,>0.05
+Apple juice liking,MI,-0.039122908,Apple juice liking_MIP,0.765518467,apple juice,Fruit,>0.05,>0.05
+Apples liking,MI,-0.448546126,Apples liking_MIP,0.027136997,apples,Fruit,<0.05,<0.05
+Avocado liking,MI,-0.266117447,Avocado liking_MIP,0.000988123,avocados,Fruit,<0.001,<0.001
+Banana liking,MI,-0.093027574,Banana liking_MIP,0.497755571,bananas,Fruit,>0.05,>0.05
+Cherry liking,MI,-0.273443734,Cherry liking_MIP,0.047640279,cherries,Fruit,<0.05,<0.05
+Dried fruit liking,MI,-0.219512625,Dried fruit liking_MIP,0.129109026,dried fruit,Fruit,>0.05,>0.05
+Grapefruit liking,MI,-0.677442367,Grapefruit liking_MIP,4.07E-25,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,MI,-0.259474079,Kiwi liking_MIP,0.020331068,kiwi fruit,Fruit,<0.05,<0.05
+Lemon liking,MI,-0.244505514,Lemon liking_MIP,0.055969844,lemons,Fruit,>0.05,>0.05
+Orange juice liking,MI,-0.023830162,Orange juice liking_MIP,0.881884677,orange juice,Fruit,>0.05,>0.05
+Apple juice liking,IHD,-0.089794788,Apple juice liking_IHDP,0.209693375,apple juice,Fruit,>0.05,>0.05
+Apples liking,IHD,-0.412695419,Apples liking_IHDP,0.001231957,apples,Fruit,<0.01,<0.01
+Avocado liking,IHD,-0.197811237,Avocado liking_IHDP,8.68E-05,avocados,Fruit,<0.0001,<0.0001
+Banana liking,IHD,-0.007504169,Banana liking_IHDP,0.954378088,bananas,Fruit,>0.05,>0.05
+Cherry liking,IHD,-0.103518664,Cherry liking_IHDP,0.3146657,cherries,Fruit,>0.05,>0.05
+Dried fruit liking,IHD,-0.154597624,Dried fruit liking_IHDP,0.104579185,dried fruit,Fruit,>0.05,>0.05
+Grapefruit liking,IHD,-0.627909149,Grapefruit liking_IHDP,1.67E-50,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,IHD,-0.201772011,Kiwi liking_IHDP,0.005659945,kiwi fruit,Fruit,<0.01,<0.01
+Lemon liking,IHD,-0.181325564,Lemon liking_IHDP,0.032938641,lemons,Fruit,<0.05,<0.05
+Orange juice liking,IHD,-0.077472992,Orange juice liking_IHDP,0.349984316,orange juice,Fruit,>0.05,>0.05
+Apple juice liking,HF,0.11981326,Apple juice liking_HFP,0.710592053,apple juice,Fruit,>0.05,>0.05
+Apples liking,HF,-0.481046419,Apples liking_HFP,0.060047327,apples,Fruit,>0.05,>0.05
+Avocado liking,HF,-0.258990931,Avocado liking_HFP,0.017953288,avocados,Fruit,<0.05,<0.05
+Banana liking,HF,-0.247651746,Banana liking_HFP,0.112280943,bananas,Fruit,>0.05,>0.05
+Cherry liking,HF,0.109337737,Cherry liking_HFP,0.932761307,cherries,Fruit,>0.05,>0.05
+Dried fruit liking,HF,-0.345824987,Dried fruit liking_HFP,0.057413795,dried fruit,Fruit,>0.05,>0.05
+Grapefruit liking,HF,-0.546531604,Grapefruit liking_HFP,5.11E-10,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,HF,-0.319351154,Kiwi liking_HFP,0.035937895,kiwi fruit,Fruit,<0.05,<0.05
+Lemon liking,HF,-0.277327959,Lemon liking_HFP,0.068565376,lemons,Fruit,>0.05,>0.05
+Orange juice liking,HF,0.065365127,Orange juice liking_HFP,0.932761307,orange juice,Fruit,>0.05,>0.05
+Apple juice liking,CVD,-0.047005175,Apple juice liking_CVDP,0.455877295,apple juice,Fruit,>0.05,>0.05
+Apples liking,CVD,-0.412631608,Apples liking_CVDP,0.000344441,apples,Fruit,<0.001,<0.001
+Avocado liking,CVD,-0.226645028,Avocado liking_CVDP,5.04E-07,avocados,Fruit,<0.0001,<0.0001
+Banana liking,CVD,-0.019562751,Banana liking_CVDP,0.821056475,bananas,Fruit,>0.05,>0.05
+Cherry liking,CVD,-0.127120971,Cherry liking_CVDP,0.149579807,cherries,Fruit,>0.05,>0.05
+Dried fruit liking,CVD,-0.162522559,Dried fruit liking_CVDP,0.051950364,dried fruit,Fruit,>0.05,>0.05
+Grapefruit liking,CVD,-0.628019727,Grapefruit liking_CVDP,6.17E-59,grapefruit,Fruit,<0.0001,<0.0001
+Kiwi liking,CVD,-0.201705522,Kiwi liking_CVDP,0.002251086,kiwi fruit,Fruit,<0.01,<0.01
+Lemon liking,CVD,-0.186954652,Lemon liking_CVDP,0.013604382,lemons,Fruit,<0.05,<0.05
+Orange juice liking,CVD,-0.058069598,Orange juice liking_CVDP,0.411373465,orange juice,Fruit,>0.05,>0.05
+Cereal bar liking,T2D,-0.214250094,Cereal bar liking_T2DP,0.00333987,cereal/granola bar,Grain,<0.01,<0.01
+Croissant liking,T2D,-0.093328042,Croissant liking_T2DP,0.235501999,croissant,Grain,>0.05,>0.05
+Pasta liking,T2D,-0.591098169,Pasta liking_T2DP,1.52E-12,pasta,Grain,<0.0001,<0.0001
+Porridge liking,T2D,-0.151922746,Porridge liking_T2DP,0.019912538,porridge,Grain,<0.05,<0.05
+Total carbohydrate liking,T2D,-0.439885665,Total carbohydrate liking_T2DP,0.030099472,Total carbohydrate,Grain,<0.05,<0.05
+Total whole food liking,T2D,-0.536170459,Total whole food liking_T2DP,0.002320957,Total whole food,Grain,<0.01,<0.01
+wholemeal bread liking,T2D,-0.255900996,wholemeal bread liking_T2DP,0.035399838,wholemeal bread,Grain,<0.05,<0.05
+Cereal bar liking,Stroke,-0.173409671,Cereal bar liking_StrokeP,0.258666412,cereal/granola bar,Grain,>0.05,>0.05
+Croissant liking,Stroke,-0.288244016,Croissant liking_StrokeP,0.066724593,croissant,Grain,>0.05,>0.05
+Pasta liking,Stroke,-0.490928424,Pasta liking_StrokeP,0.006296189,pasta,Grain,<0.01,<0.01
+Porridge liking,Stroke,-0.103273359,Porridge liking_StrokeP,0.467517907,porridge,Grain,>0.05,>0.05
+Total carbohydrate liking,Stroke,-0.684353705,Total carbohydrate liking_StrokeP,0.117590503,Total carbohydrate,Grain,>0.05,>0.05
+Total whole food liking,Stroke,-0.460272229,Total whole food liking_StrokeP,0.239519965,Total whole food,Grain,>0.05,>0.05
+wholemeal bread liking,Stroke,-0.569971025,wholemeal bread liking_StrokeP,0.018074627,wholemeal bread,Grain,<0.05,<0.05
+Cereal bar liking,MI,-0.145434177,Cereal bar liking_MIP,0.194402798,cereal/granola bar,Grain,>0.05,>0.05
+Croissant liking,MI,-0.141748201,Croissant liking_MIP,0.244770387,croissant,Grain,>0.05,>0.05
+Pasta liking,MI,-0.197748511,Pasta liking_MIP,0.140490108,pasta,Grain,>0.05,>0.05
+Porridge liking,MI,0.029128248,Porridge liking_MIP,0.903313156,porridge,Grain,>0.05,>0.05
+Total carbohydrate liking,MI,0.276567015,Total carbohydrate liking_MIP,0.903313156,Total carbohydrate,Grain,>0.05,>0.05
+Total whole food liking,MI,0.136143502,Total whole food liking_MIP,0.903313156,Total whole food,Grain,>0.05,>0.05
+wholemeal bread liking,MI,-0.117335988,wholemeal bread liking_MIP,0.578419122,wholemeal bread,Grain,>0.05,>0.05
+Cereal bar liking,IHD,-0.102919125,Cereal bar liking_IHDP,0.152968292,cereal/granola bar,Grain,>0.05,>0.05
+Croissant liking,IHD,-0.169394498,Croissant liking_IHDP,0.014379967,croissant,Grain,<0.05,<0.05
+Pasta liking,IHD,-0.168292776,Pasta liking_IHDP,0.06022191,pasta,Grain,>0.05,>0.05
+Porridge liking,IHD,-0.042354257,Porridge liking_IHDP,0.529844323,porridge,Grain,>0.05,>0.05
+Total carbohydrate liking,IHD,0.34036109,Total carbohydrate liking_IHDP,0.366595602,Total carbohydrate,Grain,>0.05,>0.05
+Total whole food liking,IHD,-0.30265242,Total whole food liking_IHDP,0.106141967,Total whole food,Grain,>0.05,>0.05
+wholemeal bread liking,IHD,-0.274740003,wholemeal bread liking_IHDP,0.021406584,wholemeal bread,Grain,<0.05,<0.05
+Cereal bar liking,HF,-0.275650761,Cereal bar liking_HFP,0.042406962,cereal/granola bar,Grain,<0.05,<0.05
+Croissant liking,HF,-0.254881095,Croissant liking_HFP,0.05852224,croissant,Grain,>0.05,>0.05
+Pasta liking,HF,-0.149207694,Pasta liking_HFP,0.407050537,pasta,Grain,>0.05,>0.05
+Porridge liking,HF,-0.12176116,Porridge liking_HFP,0.364018331,porridge,Grain,>0.05,>0.05
+Total carbohydrate liking,HF,-0.08671415,Total carbohydrate liking_HFP,0.861440216,Total carbohydrate,Grain,>0.05,>0.05
+Total whole food liking,HF,-0.435099085,Total whole food liking_HFP,0.215864575,Total whole food,Grain,>0.05,>0.05
+wholemeal bread liking,HF,-0.461740565,wholemeal bread liking_HFP,0.040909693,wholemeal bread,Grain,<0.05,<0.05
+Cereal bar liking,CVD,-0.098789945,Cereal bar liking_CVDP,0.127452684,cereal/granola bar,Grain,>0.05,>0.05
+Croissant liking,CVD,-0.19020059,Croissant liking_CVDP,0.002168813,croissant,Grain,<0.01,<0.01
+Pasta liking,CVD,-0.192345214,Pasta liking_CVDP,0.013604382,pasta,Grain,<0.05,<0.05
+Porridge liking,CVD,-0.060325937,Porridge liking_CVDP,0.295073891,porridge,Grain,>0.05,>0.05
+Total carbohydrate liking,CVD,0.21283545,Total carbohydrate liking_CVDP,0.648221879,Total carbohydrate,Grain,>0.05,>0.05
+Total whole food liking,CVD,-0.344827163,Total whole food liking_CVDP,0.03254491,Total whole food,Grain,<0.05,<0.05
+wholemeal bread liking,CVD,-0.287525503,wholemeal bread liking_CVDP,0.007399895,wholemeal bread,Grain,<0.01,<0.01
+Bacon liking,T2D,0.241814553,Bacon liking_T2DP,0.002118327,bacon,Processed products,<0.01,<0.01
+BBQ/grilled meat liking,T2D,0.201135283,BBQ/grilled meat liking_T2DP,0.006275151,barbequed or grilled meat,Processed products,<0.01,<0.01
+Burger liking,T2D,0.293861077,Burger liking_T2DP,9.22E-05,burgers (meat),Processed products,<0.0001,<0.0001
+Chips liking,T2D,0.014748726,Chips liking_T2DP,0.925284858,chips/french fries,Processed products,>0.05,>0.05
+Corn flake liking,T2D,0.129891122,Corn flake liking_T2DP,0.095281005,corn flakes,Processed products,>0.05,>0.05
+Gherkins liking,T2D,-0.099885335,Gherkins liking_T2DP,0.072190932,gherkins,Processed products,>0.05,>0.05
+Ham liking,T2D,0.270448199,Ham liking_T2DP,0.000858989,ham,Processed products,<0.001,<0.001
+Pizza liking,T2D,-0.303674345,Pizza liking_T2DP,8.47E-05,pizza,Processed products,<0.0001,<0.0001
+Sausages liking,T2D,0.18861816,Sausages liking_T2DP,0.014057881,sausages (meat),Processed products,<0.05,<0.05
+Savoury biscuit liking,T2D,-0.169886007,Savoury biscuit liking_T2DP,0.122513232,savoury biscuits,Processed products,>0.05,>0.05
+Smoked fish liking,T2D,-0.238383497,Smoked fish liking_T2DP,2.49E-05,smoked fish,Processed products,<0.0001,<0.0001
+Tinned tuna liking,T2D,-0.142741789,Tinned tuna liking_T2DP,0.013195412,tinned tuna,Processed products,<0.05,<0.05
+Bacon liking,Stroke,0.079645309,Bacon liking_StrokeP,0.963241916,bacon,Processed products,>0.05,>0.05
+BBQ/grilled meat liking,Stroke,-0.065656502,BBQ/grilled meat liking_StrokeP,0.653068755,barbequed or grilled meat,Processed products,>0.05,>0.05
+Burger liking,Stroke,0.048950772,Burger liking_StrokeP,0.963241916,burgers (meat),Processed products,>0.05,>0.05
+Chips liking,Stroke,-0.35804159,Chips liking_StrokeP,0.117590503,chips/french fries,Processed products,>0.05,>0.05
+Corn flake liking,Stroke,-0.033679455,Corn flake liking_StrokeP,0.841068817,corn flakes,Processed products,>0.05,>0.05
+Gherkins liking,Stroke,-0.298662078,Gherkins liking_StrokeP,0.018092039,gherkins,Processed products,<0.05,<0.05
+Ham liking,Stroke,0.171948987,Ham liking_StrokeP,0.735433153,ham,Processed products,>0.05,>0.05
+Pizza liking,Stroke,-0.207513904,Pizza liking_StrokeP,0.20729708,pizza,Processed products,>0.05,>0.05
+Sausages liking,Stroke,0.186945659,Sausages liking_StrokeP,0.735433153,sausages (meat),Processed products,>0.05,>0.05
+Savoury biscuit liking,Stroke,-0.477158877,Savoury biscuit liking_StrokeP,0.024987327,savoury biscuits,Processed products,<0.05,<0.05
+Smoked fish liking,Stroke,-0.216146875,Smoked fish liking_StrokeP,0.092594472,smoked fish,Processed products,>0.05,>0.05
+Tinned tuna liking,Stroke,0.03274864,Tinned tuna liking_StrokeP,0.963241916,tinned tuna,Processed products,>0.05,>0.05
+Bacon liking,MI,-0.074650988,Bacon liking_MIP,0.486570913,bacon,Processed products,>0.05,>0.05
+BBQ/grilled meat liking,MI,0.017987392,BBQ/grilled meat liking_MIP,0.930580329,barbequed or grilled meat,Processed products,>0.05,>0.05
+Burger liking,MI,-0.100126236,Burger liking_MIP,0.361175023,burgers (meat),Processed products,>0.05,>0.05
+Chips liking,MI,-0.227250698,Chips liking_MIP,0.215273031,chips/french fries,Processed products,>0.05,>0.05
+Corn flake liking,MI,0.169412025,Corn flake liking_MIP,0.331639497,corn flakes,Processed products,>0.05,>0.05
+Gherkins liking,MI,-0.014722121,Gherkins liking_MIP,0.881884677,gherkins,Processed products,>0.05,>0.05
+Ham liking,MI,0.031186915,Ham liking_MIP,0.903313156,ham,Processed products,>0.05,>0.05
+Pizza liking,MI,-0.209591398,Pizza liking_MIP,0.067297137,pizza,Processed products,>0.05,>0.05
+Sausages liking,MI,-0.10524712,Sausages liking_MIP,0.318202905,sausages (meat),Processed products,>0.05,>0.05
+Savoury biscuit liking,MI,0.017781734,Savoury biscuit liking_MIP,0.930580329,savoury biscuits,Processed products,>0.05,>0.05
+Smoked fish liking,MI,-0.012945129,Smoked fish liking_MIP,0.896735323,smoked fish,Processed products,>0.05,>0.05
+Tinned tuna liking,MI,-0.004815162,Tinned tuna liking_MIP,0.959913705,tinned tuna,Processed products,>0.05,>0.05
+Bacon liking,IHD,0.016584851,Bacon liking_IHDP,0.842505644,bacon,Processed products,>0.05,>0.05
+BBQ/grilled meat liking,IHD,0.062480811,BBQ/grilled meat liking_IHDP,0.433389738,barbequed or grilled meat,Processed products,>0.05,>0.05
+Burger liking,IHD,-0.022009157,Burger liking_IHDP,0.780030127,burgers (meat),Processed products,>0.05,>0.05
+Chips liking,IHD,-0.168095169,Chips liking_IHDP,0.151509855,chips/french fries,Processed products,>0.05,>0.05
+Corn flake liking,IHD,0.170810801,Corn flake liking_IHDP,0.01768138,corn flakes,Processed products,<0.05,<0.05
+Gherkins liking,IHD,-0.014745638,Gherkins liking_IHDP,0.814689974,gherkins,Processed products,>0.05,>0.05
+Ham liking,IHD,0.020087411,Ham liking_IHDP,0.842505644,ham,Processed products,>0.05,>0.05
+Pizza liking,IHD,-0.152278586,Pizza liking_IHDP,0.041081532,pizza,Processed products,<0.05,<0.05
+Sausages liking,IHD,-0.024630627,Sausages liking_IHDP,0.743112231,sausages (meat),Processed products,>0.05,>0.05
+Savoury biscuit liking,IHD,-0.020193002,Savoury biscuit liking_IHDP,0.879776803,savoury biscuits,Processed products,>0.05,>0.05
+Smoked fish liking,IHD,-0.065557586,Smoked fish liking_IHDP,0.259622625,smoked fish,Processed products,>0.05,>0.05
+Tinned tuna liking,IHD,-0.074063132,Tinned tuna liking_IHDP,0.197876079,tinned tuna,Processed products,>0.05,>0.05
+Bacon liking,HF,0.085336612,Bacon liking_HFP,0.895782667,bacon,Processed products,>0.05,>0.05
+BBQ/grilled meat liking,HF,0.127714384,BBQ/grilled meat liking_HFP,0.609982826,barbequed or grilled meat,Processed products,>0.05,>0.05
+Burger liking,HF,0.164658315,Burger liking_HFP,0.406647777,burgers (meat),Processed products,>0.05,>0.05
+Chips liking,HF,-0.306806881,Chips liking_HFP,0.155204681,chips/french fries,Processed products,>0.05,>0.05
+Corn flake liking,HF,0.274056074,Corn flake liking_HFP,0.086582639,corn flakes,Processed products,>0.05,>0.05
+Gherkins liking,HF,-0.064719275,Gherkins liking_HFP,0.57911665,gherkins,Processed products,>0.05,>0.05
+Ham liking,HF,0.252408713,Ham liking_HFP,0.197814331,ham,Processed products,>0.05,>0.05
+Pizza liking,HF,-0.151227495,Pizza liking_HFP,0.320914507,pizza,Processed products,>0.05,>0.05
+Sausages liking,HF,0.177288376,Sausages liking_HFP,0.406647777,sausages (meat),Processed products,>0.05,>0.05
+Savoury biscuit liking,HF,-0.121848792,Savoury biscuit liking_HFP,0.57911665,savoury biscuits,Processed products,>0.05,>0.05
+Smoked fish liking,HF,-0.191179138,Smoked fish liking_HFP,0.078658348,smoked fish,Processed products,>0.05,>0.05
+Tinned tuna liking,HF,-0.201511077,Tinned tuna liking_HFP,0.060047327,tinned tuna,Processed products,>0.05,>0.05
+Bacon liking,CVD,0.004898006,Bacon liking_CVDP,0.940304633,bacon,Processed products,>0.05,>0.05
+BBQ/grilled meat liking,CVD,0.037987146,BBQ/grilled meat liking_CVDP,0.648221879,barbequed or grilled meat,Processed products,>0.05,>0.05
+Burger liking,CVD,-0.005024824,Burger liking_CVDP,0.953241685,burgers (meat),Processed products,>0.05,>0.05
+Chips liking,CVD,-0.20987596,Chips liking_CVDP,0.033906636,chips/french fries,Processed products,<0.05,<0.05
+Corn flake liking,CVD,0.15794341,Corn flake liking_CVDP,0.020750337,corn flakes,Processed products,<0.05,<0.05
+Gherkins liking,CVD,-0.057003631,Gherkins liking_CVDP,0.239300551,gherkins,Processed products,>0.05,>0.05
+Ham liking,CVD,0.032047143,Ham liking_CVDP,0.784805175,ham,Processed products,>0.05,>0.05
+Pizza liking,CVD,-0.14634759,Pizza liking_CVDP,0.026563624,pizza,Processed products,<0.05,<0.05
+Sausages liking,CVD,-0.000656864,Sausages liking_CVDP,0.989689977,sausages (meat),Processed products,>0.05,>0.05
+Savoury biscuit liking,CVD,-0.100383132,Savoury biscuit liking_CVDP,0.299273365,savoury biscuits,Processed products,>0.05,>0.05
+Smoked fish liking,CVD,-0.086129443,Smoked fish liking_CVDP,0.085754468,smoked fish,Processed products,>0.05,>0.05
+Tinned tuna liking,CVD,-0.064840002,Tinned tuna liking_CVDP,0.205086158,tinned tuna,Processed products,>0.05,>0.05
+Baked/steamed fish liking,T2D,-0.186687903,Baked/steamed fish liking_T2DP,0.004906145,baked/steamed fish,Total Animal Products,<0.01,<0.01
+Beef/steak liking,T2D,0.243180547,Beef/steak liking_T2DP,0.000757083,beef steak,Total Animal Products,<0.001,<0.001
+Fried chicken liking,T2D,0.306954549,Fried chicken liking_T2DP,1.24E-05,fried chicken,Total Animal Products,<0.0001,<0.0001
+Herring liking,T2D,-0.230763191,Herring liking_T2DP,3.69E-05,herring,Total Animal Products,<0.0001,<0.0001
+Mackerel liking,T2D,-0.318262101,Mackerel liking_T2DP,5.78E-10,mackerel,Total Animal Products,<0.0001,<0.0001
+Pork chop liking,T2D,0.226127477,Pork chop liking_T2DP,0.000858989,pork chop,Total Animal Products,<0.001,<0.001
+Prawns liking,T2D,-0.083987533,Prawns liking_T2DP,0.088172512,prawns,Total Animal Products,>0.05,>0.05
+Red meat liking,T2D,0.260528501,Red meat liking_T2DP,0.000770453,red meat,Total Animal Products,<0.001,<0.001
+Salmon liking,T2D,-0.200315954,Salmon liking_T2DP,0.001899543,salmon,Total Animal Products,<0.01,<0.01
+Sardines liking,T2D,-0.229654749,Sardines liking_T2DP,1.39E-05,sardines,Total Animal Products,<0.0001,<0.0001
+Shellfish liking,T2D,-0.107779848,Shellfish liking_T2DP,0.020585624,shellfish (other than prawns),Total Animal Products,<0.05,<0.05
+Total fish liking,T2D,-0.295358805,Total fish liking_T2DP,0.001763755,Total fish,Total Animal Products,<0.01,<0.01
+Total meat liking,T2D,0.299358101,Total meat liking_T2DP,0.004475912,Total meat,Total Animal Products,<0.01,<0.01
+Total seafood liking,T2D,-0.130751493,Total seafood liking_T2DP,0.012845644,Total seafood,Total Animal Products,<0.05,<0.05
+Total small fish liking,T2D,-0.215492313,Total small fish liking_T2DP,0.003706678,Total small fish,Total Animal Products,<0.01,<0.01
+Baked/steamed fish liking,Stroke,-0.116460219,Baked/steamed fish liking_StrokeP,0.461776773,baked/steamed fish,Total Animal Products,>0.05,>0.05
+Beef/steak liking,Stroke,0.041008914,Beef/steak liking_StrokeP,0.963241916,beef steak,Total Animal Products,>0.05,>0.05
+Fried chicken liking,Stroke,0.159593959,Fried chicken liking_StrokeP,0.735433153,fried chicken,Total Animal Products,>0.05,>0.05
+Herring liking,Stroke,-0.131445843,Herring liking_StrokeP,0.292499879,herring,Total Animal Products,>0.05,>0.05
+Mackerel liking,Stroke,-0.088433149,Mackerel liking_StrokeP,0.464351554,mackerel,Total Animal Products,>0.05,>0.05
+Pork chop liking,Stroke,0.038603348,Pork chop liking_StrokeP,0.963241916,pork chop,Total Animal Products,>0.05,>0.05
+Prawns liking,Stroke,0.019084035,Prawns liking_StrokeP,0.963241916,prawns,Total Animal Products,>0.05,>0.05
+Red meat liking,Stroke,0.032725239,Red meat liking_StrokeP,0.963241916,red meat,Total Animal Products,>0.05,>0.05
+Salmon liking,Stroke,-0.152247572,Salmon liking_StrokeP,0.291569404,salmon,Total Animal Products,>0.05,>0.05
+Sardines liking,Stroke,-0.092566766,Sardines liking_StrokeP,0.446326586,sardines,Total Animal Products,>0.05,>0.05
+Shellfish liking,Stroke,-0.097157699,Shellfish liking_StrokeP,0.333130304,shellfish (other than prawns),Total Animal Products,>0.05,>0.05
+Total fish liking,Stroke,-0.069992185,Total fish liking_StrokeP,0.747368859,Total fish,Total Animal Products,>0.05,>0.05
+Total meat liking,Stroke,0.070180761,Total meat liking_StrokeP,0.963241916,Total meat,Total Animal Products,>0.05,>0.05
+Total seafood liking,Stroke,0.023102144,Total seafood liking_StrokeP,0.963241916,Total seafood,Total Animal Products,>0.05,>0.05
+Total small fish liking,Stroke,-0.217894876,Total small fish liking_StrokeP,0.194798394,Total small fish,Total Animal Products,>0.05,>0.05
+Baked/steamed fish liking,MI,-0.051015286,Baked/steamed fish liking_MIP,0.641344748,baked/steamed fish,Total Animal Products,>0.05,>0.05
+Beef/steak liking,MI,-0.061839078,Beef/steak liking_MIP,0.541194867,beef steak,Total Animal Products,>0.05,>0.05
+Fried chicken liking,MI,0.053537398,Fried chicken liking_MIP,0.903313156,fried chicken,Total Animal Products,>0.05,>0.05
+Herring liking,MI,0.055039984,Herring liking_MIP,0.903313156,herring,Total Animal Products,>0.05,>0.05
+Mackerel liking,MI,0.090989057,Mackerel liking_MIP,0.775792419,mackerel,Total Animal Products,>0.05,>0.05
+Pork chop liking,MI,0.046931635,Pork chop liking_MIP,0.903313156,pork chop,Total Animal Products,>0.05,>0.05
+Prawns liking,MI,-0.075734752,Prawns liking_MIP,0.318556469,prawns,Total Animal Products,>0.05,>0.05
+Red meat liking,MI,-0.120402533,Red meat liking_MIP,0.245808746,red meat,Total Animal Products,>0.05,>0.05
+Salmon liking,MI,-0.148800891,Salmon liking_MIP,0.133504111,salmon,Total Animal Products,>0.05,>0.05
+Sardines liking,MI,-0.067361083,Sardines liking_MIP,0.42247064,sardines,Total Animal Products,>0.05,>0.05
+Shellfish liking,MI,-0.021685168,Shellfish liking_MIP,0.794466258,shellfish (other than prawns),Total Animal Products,>0.05,>0.05
+Total fish liking,MI,0.106518624,Total fish liking_MIP,0.903313156,Total fish,Total Animal Products,>0.05,>0.05
+Total meat liking,MI,0.027511408,Total meat liking_MIP,0.930580329,Total meat,Total Animal Products,>0.05,>0.05
+Total seafood liking,MI,-0.04753955,Total seafood liking_MIP,0.564491828,Total seafood,Total Animal Products,>0.05,>0.05
+Total small fish liking,MI,0.07583654,Total small fish liking_MIP,0.903313156,Total small fish,Total Animal Products,>0.05,>0.05
+Baked/steamed fish liking,IHD,-0.056729909,Baked/steamed fish liking_IHDP,0.418475322,baked/steamed fish,Total Animal Products,>0.05,>0.05
+Beef/steak liking,IHD,0.055032377,Beef/steak liking_IHDP,0.483903045,beef steak,Total Animal Products,>0.05,>0.05
+Fried chicken liking,IHD,0.136115448,Fried chicken liking_IHDP,0.041453257,fried chicken,Total Animal Products,<0.05,<0.05
+Herring liking,IHD,-0.04374526,Herring liking_IHDP,0.446289931,herring,Total Animal Products,>0.05,>0.05
+Mackerel liking,IHD,-0.062706574,Mackerel liking_IHDP,0.243944517,mackerel,Total Animal Products,>0.05,>0.05
+Pork chop liking,IHD,-0.003121287,Pork chop liking_IHDP,0.97200815,pork chop,Total Animal Products,>0.05,>0.05
+Prawns liking,IHD,-0.121355852,Prawns liking_IHDP,0.006384619,prawns,Total Animal Products,<0.01,<0.01
+Red meat liking,IHD,0.049667803,Red meat liking_IHDP,0.540899876,red meat,Total Animal Products,>0.05,>0.05
+Salmon liking,IHD,-0.130991942,Salmon liking_IHDP,0.032938641,salmon,Total Animal Products,<0.05,<0.05
+Sardines liking,IHD,-0.113520197,Sardines liking_IHDP,0.022259556,sardines,Total Animal Products,<0.05,<0.05
+Shellfish liking,IHD,-0.084846306,Shellfish liking_IHDP,0.048436472,shellfish (other than prawns),Total Animal Products,<0.05,<0.05
+Total fish liking,IHD,-0.083147888,Total fish liking_IHDP,0.370385371,Total fish,Total Animal Products,>0.05,>0.05
+Total meat liking,IHD,0.091115723,Total meat liking_IHDP,0.400126725,Total meat,Total Animal Products,>0.05,>0.05
+Total seafood liking,IHD,-0.130042403,Total seafood liking_IHDP,0.005801555,Total seafood,Total Animal Products,<0.01,<0.01
+Total small fish liking,IHD,-0.085456852,Total small fish liking_IHDP,0.24337022,Total small fish,Total Animal Products,>0.05,>0.05
+Baked/steamed fish liking,HF,-0.251380167,Baked/steamed fish liking_HFP,0.046644564,baked/steamed fish,Total Animal Products,<0.05,<0.05
+Beef/steak liking,HF,0.039365407,Beef/steak liking_HFP,0.932761307,beef steak,Total Animal Products,>0.05,>0.05
+Fried chicken liking,HF,0.313559533,Fried chicken liking_HFP,0.037786995,fried chicken,Total Animal Products,<0.05,<0.05
+Herring liking,HF,-0.155173381,Herring liking_HFP,0.144780741,herring,Total Animal Products,>0.05,>0.05
+Mackerel liking,HF,-0.153109443,Mackerel liking_HFP,0.140779131,mackerel,Total Animal Products,>0.05,>0.05
+Pork chop liking,HF,0.018220893,Pork chop liking_HFP,0.956885593,pork chop,Total Animal Products,>0.05,>0.05
+Prawns liking,HF,-0.000811614,Prawns liking_HFP,0.991629776,prawns,Total Animal Products,>0.05,>0.05
+Red meat liking,HF,-0.013021144,Red meat liking_HFP,0.921438816,red meat,Total Animal Products,>0.05,>0.05
+Salmon liking,HF,-0.237455935,Salmon liking_HFP,0.057413795,salmon,Total Animal Products,>0.05,>0.05
+Sardines liking,HF,-0.117981745,Sardines liking_HFP,0.261634647,sardines,Total Animal Products,>0.05,>0.05
+Shellfish liking,HF,-0.006380589,Shellfish liking_HFP,0.934881834,shellfish (other than prawns),Total Animal Products,>0.05,>0.05
+Total fish liking,HF,-0.212628517,Total fish liking_HFP,0.25054146,Total fish,Total Animal Products,>0.05,>0.05
+Total meat liking,HF,0.349700181,Total meat liking_HFP,0.196112674,Total meat,Total Animal Products,>0.05,>0.05
+Total seafood liking,HF,-0.022259713,Total seafood liking_HFP,0.840444526,Total seafood,Total Animal Products,>0.05,>0.05
+Total small fish liking,HF,-0.105311876,Total small fish liking_HFP,0.490875791,Total small fish,Total Animal Products,>0.05,>0.05
+Baked/steamed fish liking,CVD,-0.077401883,Baked/steamed fish liking_CVDP,0.198624549,baked/steamed fish,Total Animal Products,>0.05,>0.05
+Beef/steak liking,CVD,0.044119041,Beef/steak liking_CVDP,0.648221879,beef steak,Total Animal Products,>0.05,>0.05
+Fried chicken liking,CVD,0.139358392,Fried chicken liking_CVDP,0.020750337,fried chicken,Total Animal Products,<0.05,<0.05
+Herring liking,CVD,-0.058928494,Herring liking_CVDP,0.229059358,herring,Total Animal Products,>0.05,>0.05
+Mackerel liking,CVD,-0.067747679,Mackerel liking_CVDP,0.150834907,mackerel,Total Animal Products,>0.05,>0.05
+Pork chop liking,CVD,-0.001202564,Pork chop liking_CVDP,0.985913612,pork chop,Total Animal Products,>0.05,>0.05
+Prawns liking,CVD,-0.100000347,Prawns liking_CVDP,0.014416267,prawns,Total Animal Products,<0.05,<0.05
+Red meat liking,CVD,0.042232623,Red meat liking_CVDP,0.648221879,red meat,Total Animal Products,>0.05,>0.05
+Salmon liking,CVD,-0.130971724,Salmon liking_CVDP,0.016164099,salmon,Total Animal Products,<0.05,<0.05
+Sardines liking,CVD,-0.113670494,Sardines liking_CVDP,0.011649464,sardines,Total Animal Products,<0.05,<0.05
+Shellfish liking,CVD,-0.090388239,Shellfish liking_CVDP,0.016510896,shellfish (other than prawns),Total Animal Products,<0.05,<0.05
+Total fish liking,CVD,-0.104454737,Total fish liking_CVDP,0.194423968,Total fish,Total Animal Products,>0.05,>0.05
+Total meat liking,CVD,0.055089109,Total meat liking_CVDP,0.648221879,Total meat,Total Animal Products,>0.05,>0.05
+Total seafood liking,CVD,-0.108007714,Total seafood liking_CVDP,0.013147788,Total seafood,Total Animal Products,<0.05,<0.05
+Total small fish liking,CVD,-0.103320441,Total small fish liking_CVDP,0.104105784,Total small fish,Total Animal Products,>0.05,>0.05
+Asparagus liking,T2D,-0.329107182,Asparagus liking_T2DP,5.80E-07,asparagus,Vegetable/Beans,<0.0001,<0.0001
+Aubergine liking,T2D,-0.424701602,Aubergine liking_T2DP,2.27E-12,aubergine,Vegetable/Beans,<0.0001,<0.0001
+Beans liking,T2D,-0.331473691,Beans liking_T2DP,0.001357772,Beans,Vegetable/Beans,<0.01,<0.01
+Bell pepper liking,T2D,-0.312706833,Bell pepper liking_T2DP,7.33E-07,bell pepper,Vegetable/Beans,<0.0001,<0.0001
+Broad bean liking,T2D,-0.284728986,Broad bean liking_T2DP,5.16E-06,broad beans,Vegetable/Beans,<0.0001,<0.0001
+Broccoli liking,T2D,-0.386160652,Broccoli liking_T2DP,6.60E-07,broccoli,Vegetable/Beans,<0.0001,<0.0001
+Brussel sprout liking,T2D,-0.236347595,Brussel sprout liking_T2DP,3.75E-05,brussel sprouts,Vegetable/Beans,<0.0001,<0.0001
+Butternut squash liking,T2D,-0.472021924,Butternut squash liking_T2DP,5.85E-13,butternut squash,Vegetable/Beans,<0.0001,<0.0001
+Cabbage liking,T2D,-0.168868016,Cabbage liking_T2DP,0.051667142,cabbage,Vegetable/Beans,>0.05,>0.05
+Coriander liking,T2D,-0.125849189,Coriander liking_T2DP,0.069910593,coriander,Vegetable/Beans,>0.05,>0.05
+Cucumber liking,T2D,-0.015506377,Cucumber liking_T2DP,0.824795781,cucumber,Vegetable/Beans,>0.05,>0.05
+Garlic liking,T2D,-0.129497154,Garlic liking_T2DP,0.055928484,garlic,Vegetable/Beans,>0.05,>0.05
+Globe artichoke liking,T2D,-0.424572661,Globe artichoke liking_T2DP,2.95E-08,globe artichoke,Vegetable/Beans,<0.0001,<0.0001
+Mushroom liking,T2D,-0.305633851,Mushroom liking_T2DP,6.35E-05,mushrooms,Vegetable/Beans,<0.0001,<0.0001
+Potatoes liking,T2D,-0.488059796,Potatoes liking_T2DP,0.007784453,potatoes,Vegetable/Beans,<0.01,<0.01
+Raw carrot liking,T2D,-0.144200023,Raw carrot liking_T2DP,0.086321456,raw carrots,Vegetable/Beans,>0.05,>0.05
+Salad leaves liking,T2D,-0.257069333,Salad leaves liking_T2DP,0.020922691,salad leaves,Vegetable/Beans,<0.05,<0.05
+Spinach liking,T2D,-0.475642382,Spinach liking_T2DP,2.68E-14,spinach,Vegetable/Beans,<0.0001,<0.0001
+Tomatoes liking,T2D,-0.244189156,Tomatoes liking_T2DP,0.004472252,fresh tomatoes,Vegetable/Beans,<0.01,<0.01
+Total capsicum liking,T2D,-0.138120115,Total capsicum liking_T2DP,0.153147405,Total capsicum,Vegetable/Beans,>0.05,>0.05
+Total lentils/beans liking,T2D,-0.293785562,Total lentils/beans liking_T2DP,0.000763975,Total lentils/beans,Vegetable/Beans,<0.001,<0.001
+Total strong vegetable liking,T2D,-0.629180136,Total strong vegetable liking_T2DP,4.19E-11,Total strong vegetable,Vegetable/Beans,<0.0001,<0.0001
+Turnip liking,T2D,-0.170909473,Turnip liking_T2DP,0.008707345,turnip (white),Vegetable/Beans,<0.01,<0.01
+Asparagus liking,Stroke,-0.359445096,Asparagus liking_StrokeP,0.014374991,asparagus,Vegetable/Beans,<0.05,<0.05
+Aubergine liking,Stroke,-0.323815141,Aubergine liking_StrokeP,0.020823169,aubergine,Vegetable/Beans,<0.05,<0.05
+Beans liking,Stroke,-0.287101874,Beans liking_StrokeP,0.239519965,Beans,Vegetable/Beans,>0.05,>0.05
+Bell pepper liking,Stroke,-0.259835653,Bell pepper liking_StrokeP,0.066724593,bell pepper,Vegetable/Beans,>0.05,>0.05
+Broad bean liking,Stroke,-0.188585112,Broad bean liking_StrokeP,0.192961949,broad beans,Vegetable/Beans,>0.05,>0.05
+Broccoli liking,Stroke,-0.19649702,Broccoli liking_StrokeP,0.321564536,broccoli,Vegetable/Beans,>0.05,>0.05
+Brussel sprout liking,Stroke,-0.047943249,Brussel sprout liking_StrokeP,0.736520147,brussel sprouts,Vegetable/Beans,>0.05,>0.05
+Butternut squash liking,Stroke,-0.407699916,Butternut squash liking_StrokeP,0.006303674,butternut squash,Vegetable/Beans,<0.01,<0.01
+Cabbage liking,Stroke,-0.392004481,Cabbage liking_StrokeP,0.03071477,cabbage,Vegetable/Beans,<0.05,<0.05
+Coriander liking,Stroke,-0.240696787,Coriander liking_StrokeP,0.103059438,coriander,Vegetable/Beans,>0.05,>0.05
+Cucumber liking,Stroke,-0.170856616,Cucumber liking_StrokeP,0.22446328,cucumber,Vegetable/Beans,>0.05,>0.05
+Garlic liking,Stroke,-0.475263575,Garlic liking_StrokeP,0.000183007,garlic,Vegetable/Beans,<0.001,<0.001
+Globe artichoke liking,Stroke,-0.374638754,Globe artichoke liking_StrokeP,0.020823169,globe artichoke,Vegetable/Beans,<0.05,<0.05
+Mushroom liking,Stroke,-0.320493835,Mushroom liking_StrokeP,0.05626082,mushrooms,Vegetable/Beans,>0.05,>0.05
+Potatoes liking,Stroke,-0.181903744,Potatoes liking_StrokeP,0.697065862,potatoes,Vegetable/Beans,>0.05,>0.05
+Raw carrot liking,Stroke,-0.034746307,Raw carrot liking_StrokeP,0.860023831,raw carrots,Vegetable/Beans,>0.05,>0.05
+Salad leaves liking,Stroke,-0.296721495,Salad leaves liking_StrokeP,0.250693965,salad leaves,Vegetable/Beans,>0.05,>0.05
+Spinach liking,Stroke,-0.289490306,Spinach liking_StrokeP,0.054167878,spinach,Vegetable/Beans,>0.05,>0.05
+Tomatoes liking,Stroke,-0.247608155,Tomatoes liking_StrokeP,0.203187567,fresh tomatoes,Vegetable/Beans,>0.05,>0.05
+Total capsicum liking,Stroke,-0.50592633,Total capsicum liking_StrokeP,0.008490864,Total capsicum,Vegetable/Beans,<0.01,<0.01
+Total lentils/beans liking,Stroke,-0.369788207,Total lentils/beans liking_StrokeP,0.056846279,Total lentils/beans,Vegetable/Beans,>0.05,>0.05
+Total strong vegetable liking,Stroke,-0.518087012,Total strong vegetable liking_StrokeP,0.017928674,Total strong vegetable,Vegetable/Beans,<0.05,<0.05
+Turnip liking,Stroke,-0.164773171,Turnip liking_StrokeP,0.258666412,turnip (white),Vegetable/Beans,>0.05,>0.05
+Asparagus liking,MI,-0.368407277,Asparagus liking_MIP,0.000107635,asparagus,Vegetable/Beans,<0.001,<0.001
+Aubergine liking,MI,-0.156477958,Aubergine liking_MIP,0.115205011,aubergine,Vegetable/Beans,>0.05,>0.05
+Beans liking,MI,-0.26953683,Beans liking_MIP,0.115205011,Beans,Vegetable/Beans,>0.05,>0.05
+Bell pepper liking,MI,-0.272882875,Bell pepper liking_MIP,0.003790398,bell pepper,Vegetable/Beans,<0.01,<0.01
+Broad bean liking,MI,-0.224789026,Broad bean liking_MIP,0.020538825,broad beans,Vegetable/Beans,<0.05,<0.05
+Broccoli liking,MI,-0.464999774,Broccoli liking_MIP,2.22E-05,broccoli,Vegetable/Beans,<0.0001,<0.0001
+Brussel sprout liking,MI,-0.195177933,Brussel sprout liking_MIP,0.023873301,brussel sprouts,Vegetable/Beans,<0.05,<0.05
+Butternut squash liking,MI,-0.264205515,Butternut squash liking_MIP,0.007750063,butternut squash,Vegetable/Beans,<0.01,<0.01
+Cabbage liking,MI,-0.169093228,Cabbage liking_MIP,0.19789187,cabbage,Vegetable/Beans,>0.05,>0.05
+Coriander liking,MI,-0.232296262,Coriander liking_MIP,0.020649985,coriander,Vegetable/Beans,<0.05,<0.05
+Cucumber liking,MI,-0.12162554,Cucumber liking_MIP,0.200774769,cucumber,Vegetable/Beans,>0.05,>0.05
+Garlic liking,MI,-0.013773896,Garlic liking_MIP,0.896735323,garlic,Vegetable/Beans,>0.05,>0.05
+Globe artichoke liking,MI,-0.444152331,Globe artichoke liking_MIP,0.000111522,globe artichoke,Vegetable/Beans,<0.001,<0.001
+Mushroom liking,MI,-0.121768546,Mushroom liking_MIP,0.352712197,mushrooms,Vegetable/Beans,>0.05,>0.05
+Potatoes liking,MI,-0.020985771,Potatoes liking_MIP,0.959913705,potatoes,Vegetable/Beans,>0.05,>0.05
+Raw carrot liking,MI,-0.330158718,Raw carrot liking_MIP,0.004778198,raw carrots,Vegetable/Beans,<0.01,<0.01
+Salad leaves liking,MI,-0.276197678,Salad leaves liking_MIP,0.115205011,salad leaves,Vegetable/Beans,>0.05,>0.05
+Spinach liking,MI,-0.343968336,Spinach liking_MIP,0.000314982,spinach,Vegetable/Beans,<0.001,<0.001
+Tomatoes liking,MI,-0.159267919,Tomatoes liking_MIP,0.250372786,fresh tomatoes,Vegetable/Beans,>0.05,>0.05
+Total capsicum liking,MI,-0.212747984,Total capsicum liking_MIP,0.133504111,Total capsicum,Vegetable/Beans,>0.05,>0.05
+Total lentils/beans liking,MI,-0.154345914,Total lentils/beans liking_MIP,0.290377994,Total lentils/beans,Vegetable/Beans,>0.05,>0.05
+Total strong vegetable liking,MI,-0.482868976,Total strong vegetable liking_MIP,0.00047445,Total strong vegetable,Vegetable/Beans,<0.001,<0.001
+Turnip liking,MI,0.015460455,Turnip liking_MIP,0.930580329,turnip (white),Vegetable/Beans,>0.05,>0.05
+Asparagus liking,IHD,-0.301877638,Asparagus liking_IHDP,1.07E-06,asparagus,Vegetable/Beans,<0.0001,<0.0001
+Aubergine liking,IHD,-0.220756321,Aubergine liking_IHDP,0.000118194,aubergine,Vegetable/Beans,<0.001,<0.001
+Beans liking,IHD,-0.26446333,Beans liking_IHDP,0.008722387,Beans,Vegetable/Beans,<0.01,<0.01
+Bell pepper liking,IHD,-0.183963441,Bell pepper liking_IHDP,0.002475099,bell pepper,Vegetable/Beans,<0.01,<0.01
+Broad bean liking,IHD,-0.167790113,Broad bean liking_IHDP,0.005659945,broad beans,Vegetable/Beans,<0.01,<0.01
+Broccoli liking,IHD,-0.334640114,Broccoli liking_IHDP,8.21E-06,broccoli,Vegetable/Beans,<0.0001,<0.0001
+Brussel sprout liking,IHD,-0.149203473,Brussel sprout liking_IHDP,0.007105576,brussel sprouts,Vegetable/Beans,<0.01,<0.01
+Butternut squash liking,IHD,-0.280167286,Butternut squash liking_IHDP,5.19E-06,butternut squash,Vegetable/Beans,<0.0001,<0.0001
+Cabbage liking,IHD,-0.098097631,Cabbage liking_IHDP,0.276941881,cabbage,Vegetable/Beans,>0.05,>0.05
+Coriander liking,IHD,-0.17351407,Coriander liking_IHDP,0.005659945,coriander,Vegetable/Beans,<0.01,<0.01
+Cucumber liking,IHD,-0.173041279,Cucumber liking_IHDP,0.002350896,cucumber,Vegetable/Beans,<0.01,<0.01
+Garlic liking,IHD,-0.042185524,Garlic liking_IHDP,0.532617671,garlic,Vegetable/Beans,>0.05,>0.05
+Globe artichoke liking,IHD,-0.280777868,Globe artichoke liking_IHDP,3.60E-05,globe artichoke,Vegetable/Beans,<0.0001,<0.0001
+Mushroom liking,IHD,-0.073393036,Mushroom liking_IHDP,0.407652183,mushrooms,Vegetable/Beans,>0.05,>0.05
+Potatoes liking,IHD,0.556225273,Potatoes liking_IHDP,0.062134058,potatoes,Vegetable/Beans,>0.05,>0.05
+Raw carrot liking,IHD,-0.224753062,Raw carrot liking_IHDP,0.003561477,raw carrots,Vegetable/Beans,<0.01,<0.01
+Salad leaves liking,IHD,-0.314359674,Salad leaves liking_IHDP,0.002633442,salad leaves,Vegetable/Beans,<0.01,<0.01
+Spinach liking,IHD,-0.284795306,Spinach liking_IHDP,3.86E-06,spinach,Vegetable/Beans,<0.0001,<0.0001
+Tomatoes liking,IHD,-0.156692665,Tomatoes liking_IHDP,0.066407254,fresh tomatoes,Vegetable/Beans,>0.05,>0.05
+Total capsicum liking,IHD,-0.208219343,Total capsicum liking_IHDP,0.016631125,Total capsicum,Vegetable/Beans,<0.05,<0.05
+Total lentils/beans liking,IHD,-0.156577847,Total lentils/beans liking_IHDP,0.085959699,Total lentils/beans,Vegetable/Beans,>0.05,>0.05
+Total strong vegetable liking,IHD,-0.438516801,Total strong vegetable liking_IHDP,1.25E-06,Total strong vegetable,Vegetable/Beans,<0.0001,<0.0001
+Turnip liking,IHD,0.022860128,Turnip liking_IHDP,0.8204952,turnip (white),Vegetable/Beans,>0.05,>0.05
+Asparagus liking,HF,-0.460359447,Asparagus liking_HFP,6.19E-05,asparagus,Vegetable/Beans,<0.0001,<0.0001
+Aubergine liking,HF,-0.270528968,Aubergine liking_HFP,0.0290749,aubergine,Vegetable/Beans,<0.05,<0.05
+Beans liking,HF,-0.364745738,Beans liking_HFP,0.060047327,Beans,Vegetable/Beans,>0.05,>0.05
+Bell pepper liking,HF,-0.233069717,Bell pepper liking_HFP,0.057413795,bell pepper,Vegetable/Beans,>0.05,>0.05
+Broad bean liking,HF,-0.231095231,Broad bean liking_HFP,0.05852224,broad beans,Vegetable/Beans,>0.05,>0.05
+Broccoli liking,HF,-0.541945197,Broccoli liking_HFP,6.19E-05,broccoli,Vegetable/Beans,<0.0001,<0.0001
+Brussel sprout liking,HF,-0.209911536,Brussel sprout liking_HFP,0.067960892,brussel sprouts,Vegetable/Beans,>0.05,>0.05
+Butternut squash liking,HF,-0.439156292,Butternut squash liking_HFP,0.000376667,butternut squash,Vegetable/Beans,<0.001,<0.001
+Cabbage liking,HF,-0.067194027,Cabbage liking_HFP,0.728800988,cabbage,Vegetable/Beans,>0.05,>0.05
+Coriander liking,HF,-0.162386384,Coriander liking_HFP,0.223779426,coriander,Vegetable/Beans,>0.05,>0.05
+Cucumber liking,HF,-0.165141307,Cucumber liking_HFP,0.155204681,cucumber,Vegetable/Beans,>0.05,>0.05
+Garlic liking,HF,-0.147787942,Garlic liking_HFP,0.215864575,garlic,Vegetable/Beans,>0.05,>0.05
+Globe artichoke liking,HF,-0.083784313,Globe artichoke liking_HFP,0.57911665,globe artichoke,Vegetable/Beans,>0.05,>0.05
+Mushroom liking,HF,-0.29083326,Mushroom liking_HFP,0.057254675,mushrooms,Vegetable/Beans,>0.05,>0.05
+Potatoes liking,HF,-0.360987353,Potatoes liking_HFP,0.376445752,potatoes,Vegetable/Beans,>0.05,>0.05
+Raw carrot liking,HF,-0.226508375,Raw carrot liking_HFP,0.1466284,raw carrots,Vegetable/Beans,>0.05,>0.05
+Salad leaves liking,HF,-0.426584327,Salad leaves liking_HFP,0.039527755,salad leaves,Vegetable/Beans,<0.05,<0.05
+Spinach liking,HF,-0.401083519,Spinach liking_HFP,0.00072217,spinach,Vegetable/Beans,<0.001,<0.001
+Tomatoes liking,HF,-0.208166992,Tomatoes liking_HFP,0.223779426,fresh tomatoes,Vegetable/Beans,>0.05,>0.05
+Total capsicum liking,HF,-0.134688931,Total capsicum liking_HFP,0.438537056,Total capsicum,Vegetable/Beans,>0.05,>0.05
+Total lentils/beans liking,HF,-0.412283645,Total lentils/beans liking_HFP,0.011207593,Total lentils/beans,Vegetable/Beans,<0.05,<0.05
+Total strong vegetable liking,HF,-0.479453094,Total strong vegetable liking_HFP,0.009563162,Total strong vegetable,Vegetable/Beans,<0.01,<0.01
+Turnip liking,HF,-0.163051037,Turnip liking_HFP,0.191434023,turnip (white),Vegetable/Beans,>0.05,>0.05
+Asparagus liking,CVD,-0.297351277,Asparagus liking_CVDP,1.58E-07,asparagus,Vegetable/Beans,<0.0001,<0.0001
+Aubergine liking,CVD,-0.223991311,Aubergine liking_CVDP,1.70E-05,aubergine,Vegetable/Beans,<0.0001,<0.0001
+Beans liking,CVD,-0.269131898,Beans liking_CVDP,0.003459085,Beans,Vegetable/Beans,<0.01,<0.01
+Bell pepper liking,CVD,-0.202575865,Bell pepper liking_CVDP,0.000183274,bell pepper,Vegetable/Beans,<0.001,<0.001
+Broad bean liking,CVD,-0.153216555,Broad bean liking_CVDP,0.005803111,broad beans,Vegetable/Beans,<0.01,<0.01
+Broccoli liking,CVD,-0.306820911,Broccoli liking_CVDP,1.08E-05,broccoli,Vegetable/Beans,<0.0001,<0.0001
+Brussel sprout liking,CVD,-0.141042774,Brussel sprout liking_CVDP,0.005803111,brussel sprouts,Vegetable/Beans,<0.01,<0.01
+Butternut squash liking,CVD,-0.294801991,Butternut squash liking_CVDP,1.67E-07,butternut squash,Vegetable/Beans,<0.0001,<0.0001
+Cabbage liking,CVD,-0.127641434,Cabbage liking_CVDP,0.101053575,cabbage,Vegetable/Beans,>0.05,>0.05
+Coriander liking,CVD,-0.192349693,Coriander liking_CVDP,0.000595233,coriander,Vegetable/Beans,<0.001,<0.001
+Cucumber liking,CVD,-0.156109283,Cucumber liking_CVDP,0.002903682,cucumber,Vegetable/Beans,<0.01,<0.01
+Garlic liking,CVD,-0.121869551,Garlic liking_CVDP,0.026539921,garlic,Vegetable/Beans,<0.05,<0.05
+Globe artichoke liking,CVD,-0.313829154,Globe artichoke liking_CVDP,4.21E-07,globe artichoke,Vegetable/Beans,<0.0001,<0.0001
+Mushroom liking,CVD,-0.109125948,Mushroom liking_CVDP,0.145140749,mushrooms,Vegetable/Beans,>0.05,>0.05
+Potatoes liking,CVD,0.508012838,Potatoes liking_CVDP,0.07316163,potatoes,Vegetable/Beans,>0.05,>0.05
+Raw carrot liking,CVD,-0.184784495,Raw carrot liking_CVDP,0.010601632,raw carrots,Vegetable/Beans,<0.05,<0.05
+Salad leaves liking,CVD,-0.30815561,Salad leaves liking_CVDP,0.001331431,salad leaves,Vegetable/Beans,<0.01,<0.01
+Spinach liking,CVD,-0.270824529,Spinach liking_CVDP,1.18E-06,spinach,Vegetable/Beans,<0.0001,<0.0001
+Tomatoes liking,CVD,-0.146474538,Tomatoes liking_CVDP,0.056205722,fresh tomatoes,Vegetable/Beans,>0.05,>0.05
+Total capsicum liking,CVD,-0.254320696,Total capsicum liking_CVDP,0.000925284,Total capsicum,Vegetable/Beans,<0.001,<0.001
+Total lentils/beans liking,CVD,-0.187485649,Total lentils/beans liking_CVDP,0.016164099,Total lentils/beans,Vegetable/Beans,<0.05,<0.05
+Total strong vegetable liking,CVD,-0.445432418,Total strong vegetable liking_CVDP,7.66E-08,Total strong vegetable,Vegetable/Beans,<0.0001,<0.0001
+Turnip liking,CVD,-0.006480792,Turnip liking_CVDP,0.941140584,turnip (white),Vegetable/Beans,>0.05,>0.05

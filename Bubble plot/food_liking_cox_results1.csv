@@ -1,0 +1,361 @@
+food_liking,disease,beta,g_p,sig,yuanshi,category,postive,negative
+Alcohol liking,T2D,-0.525352121,Alcohol liking_T2DP,4.91E-07,Alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Beer liking,T2D,-0.292286789,Beer liking_T2DP,0.001071537,Beer,Alcohol/Beverage,<0.01,<0.01
+Diet fizzy drinks liking,T2D,0.691497122,Diet fizzy drinks liking_T2DP,5.09E-36,diet fizzy drinks,Alcohol/Beverage,<0.0001,<0.0001
+Lager liking,T2D,-0.21743303,Lager liking_T2DP,0.002014304,lager,Alcohol/Beverage,<0.01,<0.01
+Red wine liking,T2D,-0.404182506,Red wine liking_T2DP,2.68E-14,red wine,Alcohol/Beverage,<0.0001,<0.0001
+Spirits liking,T2D,-0.153527592,Spirits liking_T2DP,0.006131238,spirits,Alcohol/Beverage,<0.01,<0.01
+Total coffee/alcohol liking,T2D,-0.669020882,Total coffee/alcohol liking_T2DP,2.48E-05,Total coffee/alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Total sodas liking,T2D,0.500356161,Total sodas liking_T2DP,3.07E-05,Total sodas,Alcohol/Beverage,<0.0001,<0.0001
+Total strong alcohol liking,T2D,-0.095893985,Total strong alcohol liking_T2DP,0.108589873,Total strong alcohol,Alcohol/Beverage,>0.05,>0.05
+Total wine liking,T2D,-0.563576856,Total wine liking_T2DP,9.71E-17,Total wine,Alcohol/Beverage,<0.0001,<0.0001
+White wine liking,T2D,-0.473625216,White wine liking_T2DP,9.73E-15,white wine,Alcohol/Beverage,<0.0001,<0.0001
+Alcohol liking,Stroke,-0.647788405,Alcohol liking_StrokeP,0.006296189,Alcohol,Alcohol/Beverage,<0.01,<0.01
+Beer liking,Stroke,-0.337982723,Beer liking_StrokeP,0.080555237,Beer,Alcohol/Beverage,>0.05,>0.05
+Diet fizzy drinks liking,Stroke,0.117924623,Diet fizzy drinks liking_StrokeP,0.963241916,diet fizzy drinks,Alcohol/Beverage,>0.05,>0.05
+Lager liking,Stroke,-0.285003945,Lager liking_StrokeP,0.071833171,lager,Alcohol/Beverage,>0.05,>0.05
+Red wine liking,Stroke,-0.240619115,Red wine liking_StrokeP,0.035232362,red wine,Alcohol/Beverage,<0.05,<0.05
+Spirits liking,Stroke,-0.548146911,Spirits liking_StrokeP,4.18E-06,spirits,Alcohol/Beverage,<0.0001,<0.0001
+Total coffee/alcohol liking,Stroke,-0.925283463,Total coffee/alcohol liking_StrokeP,0.006296189,Total coffee/alcohol,Alcohol/Beverage,<0.01,<0.01
+Total sodas liking,Stroke,0.096213404,Total sodas liking_StrokeP,0.963241916,Total sodas,Alcohol/Beverage,>0.05,>0.05
+Total strong alcohol liking,Stroke,-0.387485064,Total strong alcohol liking_StrokeP,0.004602161,Total strong alcohol,Alcohol/Beverage,<0.01,<0.01
+Total wine liking,Stroke,-0.42974843,Total wine liking_StrokeP,0.00370084,Total wine,Alcohol/Beverage,<0.01,<0.01
+White wine liking,Stroke,-0.388975536,White wine liking_StrokeP,0.005035531,white wine,Alcohol/Beverage,<0.01,<0.01
+Alcohol liking,MI,-0.667555778,Alcohol liking_MIP,7.02E-06,Alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Beer liking,MI,-0.350552467,Beer liking_MIP,0.00411052,Beer,Alcohol/Beverage,<0.01,<0.01
+Diet fizzy drinks liking,MI,0.314251084,Diet fizzy drinks liking_MIP,0.007719879,diet fizzy drinks,Alcohol/Beverage,<0.01,<0.01
+Lager liking,MI,-0.114249314,Lager liking_MIP,0.259044053,lager,Alcohol/Beverage,>0.05,>0.05
+Red wine liking,MI,-0.29767733,Red wine liking_MIP,0.000120991,red wine,Alcohol/Beverage,<0.001,<0.001
+Spirits liking,MI,-0.226204183,Spirits liking_MIP,0.005993278,spirits,Alcohol/Beverage,<0.01,<0.01
+Total coffee/alcohol liking,MI,-0.970173782,Total coffee/alcohol liking_MIP,1.00E-05,Total coffee/alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Total sodas liking,MI,0.432250984,Total sodas liking_MIP,0.039522147,Total sodas,Alcohol/Beverage,<0.05,<0.05
+Total strong alcohol liking,MI,-0.143993945,Total strong alcohol liking_MIP,0.103381528,Total strong alcohol,Alcohol/Beverage,>0.05,>0.05
+Total wine liking,MI,-0.488451216,Total wine liking_MIP,2.45E-07,Total wine,Alcohol/Beverage,<0.0001,<0.0001
+White wine liking,MI,-0.468428517,White wine liking_MIP,8.42E-08,white wine,Alcohol/Beverage,<0.0001,<0.0001
+Alcohol liking,IHD,-0.40929983,Alcohol liking_IHDP,2.56E-05,Alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Beer liking,IHD,-0.320667904,Beer liking_IHDP,6.98E-05,Beer,Alcohol/Beverage,<0.0001,<0.0001
+Diet fizzy drinks liking,IHD,0.230387486,Diet fizzy drinks liking_IHDP,0.00090611,diet fizzy drinks,Alcohol/Beverage,<0.001,<0.001
+Lager liking,IHD,-0.211149024,Lager liking_IHDP,0.000775338,lager,Alcohol/Beverage,<0.001,<0.001
+Red wine liking,IHD,-0.266923941,Red wine liking_IHDP,1.20E-08,red wine,Alcohol/Beverage,<0.0001,<0.0001
+Spirits liking,IHD,-0.17104246,Spirits liking_IHDP,0.000780043,spirits,Alcohol/Beverage,<0.001,<0.001
+Total coffee/alcohol liking,IHD,-0.390006059,Total coffee/alcohol liking_IHDP,0.012561592,Total coffee/alcohol,Alcohol/Beverage,<0.05,<0.05
+Total sodas liking,IHD,0.19321477,Total sodas liking_IHDP,0.226818932,Total sodas,Alcohol/Beverage,>0.05,>0.05
+Total strong alcohol liking,IHD,-0.073177901,Total strong alcohol liking_IHDP,0.197504048,Total strong alcohol,Alcohol/Beverage,>0.05,>0.05
+Total wine liking,IHD,-0.410312286,Total wine liking_IHDP,3.18E-12,Total wine,Alcohol/Beverage,<0.0001,<0.0001
+White wine liking,IHD,-0.37348849,White wine liking_IHDP,2.07E-12,white wine,Alcohol/Beverage,<0.0001,<0.0001
+Alcohol liking,HF,-0.521267818,Alcohol liking_HFP,0.009753896,Alcohol,Alcohol/Beverage,<0.01,<0.01
+Beer liking,HF,-0.251762048,Beer liking_HFP,0.121293392,Beer,Alcohol/Beverage,>0.05,>0.05
+Diet fizzy drinks liking,HF,0.387459364,Diet fizzy drinks liking_HFP,0.001903403,diet fizzy drinks,Alcohol/Beverage,<0.01,<0.01
+Lager liking,HF,-0.150532768,Lager liking_HFP,0.250105662,lager,Alcohol/Beverage,>0.05,>0.05
+Red wine liking,HF,-0.274995098,Red wine liking_HFP,0.009753896,red wine,Alcohol/Beverage,<0.01,<0.01
+Spirits liking,HF,-0.215808458,Spirits liking_HFP,0.044289142,spirits,Alcohol/Beverage,<0.05,<0.05
+Total coffee/alcohol liking,HF,-0.76706644,Total coffee/alcohol liking_HFP,0.009753896,Total coffee/alcohol,Alcohol/Beverage,<0.01,<0.01
+Total sodas liking,HF,0.457645489,Total sodas liking_HFP,0.086582639,Total sodas,Alcohol/Beverage,>0.05,>0.05
+Total strong alcohol liking,HF,-0.212167541,Total strong alcohol liking_HFP,0.055018778,Total strong alcohol,Alcohol/Beverage,>0.05,>0.05
+Total wine liking,HF,-0.288328275,Total wine liking_HFP,0.030479028,Total wine,Alcohol/Beverage,<0.05,<0.05
+White wine liking,HF,-0.276404797,White wine liking_HFP,0.019486343,white wine,Alcohol/Beverage,<0.05,<0.05
+Alcohol liking,CVD,-0.439907679,Alcohol liking_CVDP,5.15E-07,Alcohol,Alcohol/Beverage,<0.0001,<0.0001
+Beer liking,CVD,-0.318274531,Beer liking_CVDP,1.20E-05,Beer,Alcohol/Beverage,<0.0001,<0.0001
+Diet fizzy drinks liking,CVD,0.222738684,Diet fizzy drinks liking_CVDP,0.000509169,diet fizzy drinks,Alcohol/Beverage,<0.001,<0.001
+Lager liking,CVD,-0.193487903,Lager liking_CVDP,0.000754622,lager,Alcohol/Beverage,<0.001,<0.001
+Red wine liking,CVD,-0.25481064,Red wine liking_CVDP,3.01E-09,red wine,Alcohol/Beverage,<0.0001,<0.0001
+Spirits liking,CVD,-0.223594784,Spirits liking_CVDP,6.93E-07,spirits,Alcohol/Beverage,<0.0001,<0.0001
+Total coffee/alcohol liking,CVD,-0.522741925,Total coffee/alcohol liking_CVDP,0.00012179,Total coffee/alcohol,Alcohol/Beverage,<0.001,<0.001
+Total sodas liking,CVD,0.204550673,Total sodas liking_CVDP,0.142319697,Total sodas,Alcohol/Beverage,>0.05,>0.05
+Total strong alcohol liking,CVD,-0.12520219,Total strong alcohol liking_CVDP,0.009885197,Total strong alcohol,Alcohol/Beverage,<0.01,<0.01
+Total wine liking,CVD,-0.406346973,Total wine liking_CVDP,7.60E-14,Total wine,Alcohol/Beverage,<0.0001,<0.0001
+White wine liking,CVD,-0.356900211,White wine liking_CVDP,3.95E-13,white wine,Alcohol/Beverage,<0.0001,<0.0001
+Coffee with sugar liking,T2D,-0.067444545,Coffee with sugar liking_T2DP,0.23386752,coffee with sugar,Coffee/Tea,>0.05,>0.05
+Coffee without sugar liking,T2D,-0.10414044,Coffee without sugar liking_T2DP,0.022791503,coffee without sugar ,Coffee/Tea,<0.05,<0.05
+Tea with sugar liking,T2D,-0.047876999,Tea with sugar liking_T2DP,0.453793674,tea with sugar,Coffee/Tea,>0.05,>0.05
+Tea without sugar liking,T2D,-0.110351047,Tea without sugar liking_T2DP,0.012326647,tea without sugar,Coffee/Tea,<0.05,<0.05
+Total caffeinated/sweet liking,T2D,0.178111255,Total caffeinated/sweet liking_T2DP,0.107190792,Total caffeinated/sweet,Coffee/Tea,>0.05,>0.05
+Total chocolate/coffee liking,T2D,-0.195329408,Total chocolate/coffee liking_T2DP,0.030099472,Total chocolate/coffee,Coffee/Tea,<0.05,<0.05
+Total sweetened coffee drink liking,T2D,0.283600629,Total sweetened coffee drink liking_T2DP,6.80E-05,sweet coffee house drinks,Coffee/Tea,<0.0001,<0.0001
+Coffee with sugar liking,Stroke,0.034839461,Coffee with sugar liking_StrokeP,0.963241916,coffee with sugar,Coffee/Tea,>0.05,>0.05
+Coffee without sugar liking,Stroke,-0.265709378,Coffee without sugar liking_StrokeP,0.005759713,coffee without sugar ,Coffee/Tea,<0.01,<0.01
+Tea with sugar liking,Stroke,-0.053378035,Tea with sugar liking_StrokeP,0.698592188,tea with sugar,Coffee/Tea,>0.05,>0.05
+Tea without sugar liking,Stroke,-0.182522215,Tea without sugar liking_StrokeP,0.054167878,tea without sugar,Coffee/Tea,>0.05,>0.05
+Total caffeinated/sweet liking,Stroke,0.261516381,Total caffeinated/sweet liking_StrokeP,0.735433153,Total caffeinated/sweet,Coffee/Tea,>0.05,>0.05
+Total chocolate/coffee liking,Stroke,-0.280270089,Total chocolate/coffee liking_StrokeP,0.179284462,Total chocolate/coffee,Coffee/Tea,>0.05,>0.05
+Total sweetened coffee drink liking,Stroke,0.202845921,Total sweetened coffee drink liking_StrokeP,0.735433153,sweet coffee house drinks,Coffee/Tea,>0.05,>0.05
+Coffee with sugar liking,MI,0.213766824,Coffee with sugar liking_MIP,0.010581044,coffee with sugar,Coffee/Tea,<0.05,<0.05
+Coffee without sugar liking,MI,-0.246894751,Coffee without sugar liking_MIP,0.000103246,coffee without sugar ,Coffee/Tea,<0.001,<0.001
+Tea with sugar liking,MI,0.163164348,Tea with sugar liking_MIP,0.120669977,tea with sugar,Coffee/Tea,>0.05,>0.05
+Tea without sugar liking,MI,-0.152531975,Tea without sugar liking_MIP,0.01942802,tea without sugar,Coffee/Tea,<0.05,<0.05
+Total caffeinated/sweet liking,MI,0.355125258,Total caffeinated/sweet liking_MIP,0.03116609,Total caffeinated/sweet,Coffee/Tea,<0.05,<0.05
+Total chocolate/coffee liking,MI,-0.436748368,Total chocolate/coffee liking_MIP,0.00047445,Total chocolate/coffee,Coffee/Tea,<0.001,<0.001
+Total sweetened coffee drink liking,MI,0.248396521,Total sweetened coffee drink liking_MIP,0.041720899,sweet coffee house drinks,Coffee/Tea,<0.05,<0.05
+Coffee with sugar liking,IHD,0.099608935,Coffee with sugar liking_IHDP,0.061089893,coffee with sugar,Coffee/Tea,>0.05,>0.05
+Coffee without sugar liking,IHD,-0.200146745,Coffee without sugar liking_IHDP,3.31E-07,coffee without sugar ,Coffee/Tea,<0.0001,<0.0001
+Tea with sugar liking,IHD,0.152654536,Tea with sugar liking_IHDP,0.008341816,tea with sugar,Coffee/Tea,<0.01,<0.01
+Tea without sugar liking,IHD,-0.067651632,Tea without sugar liking_IHDP,0.117129071,tea without sugar,Coffee/Tea,>0.05,>0.05
+Total caffeinated/sweet liking,IHD,0.268629375,Total caffeinated/sweet liking_IHDP,0.008341816,Total caffeinated/sweet,Coffee/Tea,<0.01,<0.01
+Total chocolate/coffee liking,IHD,-0.345916733,Total chocolate/coffee liking_IHDP,9.93E-06,Total chocolate/coffee,Coffee/Tea,<0.0001,<0.0001
+Total sweetened coffee drink liking,IHD,0.188872243,Total sweetened coffee drink liking_IHDP,0.008341816,sweet coffee house drinks,Coffee/Tea,<0.01,<0.01
+Coffee with sugar liking,HF,0.090895982,Coffee with sugar liking_HFP,0.61762104,coffee with sugar,Coffee/Tea,>0.05,>0.05
+Coffee without sugar liking,HF,-0.272150356,Coffee without sugar liking_HFP,0.00072217,coffee without sugar ,Coffee/Tea,<0.001,<0.001
+Tea with sugar liking,HF,0.235671903,Tea with sugar liking_HFP,0.051990494,tea with sugar,Coffee/Tea,>0.05,>0.05
+Tea without sugar liking,HF,-0.186255015,Tea without sugar liking_HFP,0.024633128,tea without sugar,Coffee/Tea,<0.05,<0.05
+Total caffeinated/sweet liking,HF,0.530200325,Total caffeinated/sweet liking_HFP,0.001903403,Total caffeinated/sweet,Coffee/Tea,<0.01,<0.01
+Total chocolate/coffee liking,HF,-0.602400923,Total chocolate/coffee liking_HFP,6.19E-05,Total chocolate/coffee,Coffee/Tea,<0.0001,<0.0001
+Total sweetened coffee drink liking,HF,0.194635184,Total sweetened coffee drink liking_HFP,0.39931847,sweet coffee house drinks,Coffee/Tea,>0.05,>0.05
+Coffee with sugar liking,CVD,0.090218382,Coffee with sugar liking_CVDP,0.075310175,coffee with sugar,Coffee/Tea,>0.05,>0.05
+Coffee without sugar liking,CVD,-0.220468703,Coffee without sugar liking_CVDP,5.32E-10,coffee without sugar ,Coffee/Tea,<0.0001,<0.0001
+Tea with sugar liking,CVD,0.118648446,Tea with sugar liking_CVDP,0.024532819,tea with sugar,Coffee/Tea,<0.05,<0.05
+Tea without sugar liking,CVD,-0.080918306,Tea without sugar liking_CVDP,0.030427854,tea without sugar,Coffee/Tea,<0.05,<0.05
+Total caffeinated/sweet liking,CVD,0.24354465,Total caffeinated/sweet liking_CVDP,0.010579654,Total caffeinated/sweet,Coffee/Tea,<0.05,<0.05
+Total chocolate/coffee liking,CVD,-0.359461679,Total chocolate/coffee liking_CVDP,4.89E-07,Total chocolate/coffee,Coffee/Tea,<0.0001,<0.0001
+Total sweetened coffee drink liking,CVD,0.188368643,Total sweetened coffee drink liking_CVDP,0.008254389,sweet coffee house drinks,Coffee/Tea,<0.01,<0.01
+Blue cheese liking,T2D,-0.196328143,Blue cheese liking_T2DP,1.90E-05,blue cheese,Dairy/Cheese,<0.0001,<0.0001
+Goat cheese liking,T2D,-0.309574325,Goat cheese liking_T2DP,2.47E-08,goat's cheese,Dairy/Cheese,<0.0001,<0.0001
+Hard cheese liking,T2D,-0.079904344,Hard cheese liking_T2DP,0.375339296,hard cheese,Dairy/Cheese,>0.05,>0.05
+Milk chocolate liking,T2D,-0.283855937,Milk chocolate liking_T2DP,4.35E-05,milk chocolate,Dairy/Cheese,<0.0001,<0.0001
+Plain yoghurt liking,T2D,-0.261754414,Plain yoghurt liking_T2DP,1.39E-05,plain yogurt,Dairy/Cheese,<0.0001,<0.0001
+Soft cheese liking,T2D,-0.051169336,Soft cheese liking_T2DP,0.508600793,soft cheese,Dairy/Cheese,>0.05,>0.05
+Total cheese liking,T2D,-0.196353598,Total cheese liking_T2DP,0.05198939,Total cheese,Dairy/Cheese,>0.05,>0.05
+Total fatty/dairy food liking,T2D,0.478804653,Total fatty/dairy food liking_T2DP,0.018871381,Total fatty/dairy food,Dairy/Cheese,<0.05,<0.05
+Whole milk liking,T2D,-0.024643727,Whole milk liking_T2DP,0.674389068,whole milk,Dairy/Cheese,>0.05,>0.05
+Blue cheese liking,Stroke,-0.163935978,Blue cheese liking_StrokeP,0.110241336,blue cheese,Dairy/Cheese,>0.05,>0.05
+Goat cheese liking,Stroke,-0.155824979,Goat cheese liking_StrokeP,0.203187567,goat's cheese,Dairy/Cheese,>0.05,>0.05
+Hard cheese liking,Stroke,-0.379646956,Hard cheese liking_StrokeP,0.020823169,hard cheese,Dairy/Cheese,<0.05,<0.05
+Milk chocolate liking,Stroke,-0.172416868,Milk chocolate liking_StrokeP,0.250693965,milk chocolate,Dairy/Cheese,>0.05,>0.05
+Plain yoghurt liking,Stroke,-0.406012031,Plain yoghurt liking_StrokeP,0.001520574,plain yogurt,Dairy/Cheese,<0.01,<0.01
+Soft cheese liking,Stroke,-0.112330849,Soft cheese liking_StrokeP,0.470971971,soft cheese,Dairy/Cheese,>0.05,>0.05
+Total cheese liking,Stroke,-0.557066672,Total cheese liking_StrokeP,0.004837575,Total cheese,Dairy/Cheese,<0.01,<0.01
+Total fatty/dairy food liking,Stroke,-0.03510956,Total fatty/dairy food liking_StrokeP,0.906605461,Total fatty/dairy food,Dairy/Cheese,>0.05,>0.05
+Whole milk liking,Stroke,0.102106018,Whole milk liking_StrokeP,0.920226924,whole milk,Dairy/Cheese,>0.05,>0.05
+Blue cheese liking,MI,-0.132006007,Blue cheese liking_MIP,0.05454608,blue cheese,Dairy/Cheese,>0.05,>0.05
+Goat cheese liking,MI,-0.277454325,Goat cheese liking_MIP,0.000601722,goat's cheese,Dairy/Cheese,<0.001,<0.001
+Hard cheese liking,MI,-0.35490064,Hard cheese liking_MIP,0.001253945,hard cheese,Dairy/Cheese,<0.01,<0.01
+Milk chocolate liking,MI,-0.104647691,Milk chocolate liking_MIP,0.317171875,milk chocolate,Dairy/Cheese,>0.05,>0.05
+Plain yoghurt liking,MI,-0.271691683,Plain yoghurt liking_MIP,0.001460672,plain yogurt,Dairy/Cheese,<0.01,<0.01
+Soft cheese liking,MI,-0.238462422,Soft cheese liking_MIP,0.020649985,soft cheese,Dairy/Cheese,<0.05,<0.05
+Total cheese liking,MI,-0.296473041,Total cheese liking_MIP,0.027136997,Total cheese,Dairy/Cheese,<0.05,<0.05
+Total fatty/dairy food liking,MI,-0.178917066,Total fatty/dairy food liking_MIP,0.442038895,Total fatty/dairy food,Dairy/Cheese,>0.05,>0.05
+Whole milk liking,MI,-0.208212208,Whole milk liking_MIP,0.007750063,whole milk,Dairy/Cheese,<0.01,<0.01
+Blue cheese liking,IHD,-0.129562067,Blue cheese liking_IHDP,0.002205814,blue cheese,Dairy/Cheese,<0.01,<0.01
+Goat cheese liking,IHD,-0.20277668,Goat cheese liking_IHDP,3.60E-05,goat's cheese,Dairy/Cheese,<0.0001,<0.0001
+Hard cheese liking,IHD,-0.250866709,Hard cheese liking_IHDP,0.000528885,hard cheese,Dairy/Cheese,<0.001,<0.001
+Milk chocolate liking,IHD,0.032888998,Milk chocolate liking_IHDP,0.710144546,milk chocolate,Dairy/Cheese,>0.05,>0.05
+Plain yoghurt liking,IHD,-0.156353781,Plain yoghurt liking_IHDP,0.005801555,plain yogurt,Dairy/Cheese,<0.01,<0.01
+Soft cheese liking,IHD,-0.133254424,Soft cheese liking_IHDP,0.054141367,soft cheese,Dairy/Cheese,>0.05,>0.05
+Total cheese liking,IHD,-0.201987645,Total cheese liking_IHDP,0.020572692,Total cheese,Dairy/Cheese,<0.05,<0.05
+Total fatty/dairy food liking,IHD,-0.088908255,Total fatty/dairy food liking_IHDP,0.555655355,Total fatty/dairy food,Dairy/Cheese,>0.05,>0.05
+Whole milk liking,IHD,-0.132745798,Whole milk liking_IHDP,0.008520639,whole milk,Dairy/Cheese,<0.01,<0.01
+Blue cheese liking,HF,-0.111134835,Blue cheese liking_HFP,0.217053303,blue cheese,Dairy/Cheese,>0.05,>0.05
+Goat cheese liking,HF,-0.200067965,Goat cheese liking_HFP,0.05852224,goat's cheese,Dairy/Cheese,>0.05,>0.05
+Hard cheese liking,HF,-0.297394119,Hard cheese liking_HFP,0.053731851,hard cheese,Dairy/Cheese,>0.05,>0.05
+Milk chocolate liking,HF,-0.042037389,Milk chocolate liking_HFP,0.779898659,milk chocolate,Dairy/Cheese,>0.05,>0.05
+Plain yoghurt liking,HF,-0.272569132,Plain yoghurt liking_HFP,0.014304623,plain yogurt,Dairy/Cheese,<0.05,<0.05
+Soft cheese liking,HF,-0.301925454,Soft cheese liking_HFP,0.024313492,soft cheese,Dairy/Cheese,<0.05,<0.05
+Total cheese liking,HF,-0.138891148,Total cheese liking_HFP,0.482741891,Total cheese,Dairy/Cheese,>0.05,>0.05
+Total fatty/dairy food liking,HF,0.049918345,Total fatty/dairy food liking_HFP,0.956885593,Total fatty/dairy food,Dairy/Cheese,>0.05,>0.05
+Whole milk liking,HF,0.00048205,Whole milk liking_HFP,0.995275224,whole milk,Dairy/Cheese,>0.05,>0.05
+Blue cheese liking,CVD,-0.143900706,Blue cheese liking_CVDP,0.000142415,blue cheese,Dairy/Cheese,<0.001,<0.001
+Goat cheese liking,CVD,-0.178633013,Goat cheese liking_CVDP,7.49E-05,goat's cheese,Dairy/Cheese,<0.0001,<0.0001
+Hard cheese liking,CVD,-0.266893106,Hard cheese liking_CVDP,4.19E-05,hard cheese,Dairy/Cheese,<0.0001,<0.0001
+Milk chocolate liking,CVD,0.012273622,Milk chocolate liking_CVDP,0.895774146,milk chocolate,Dairy/Cheese,>0.05,>0.05
+Plain yoghurt liking,CVD,-0.189597013,Plain yoghurt liking_CVDP,0.000156176,plain yogurt,Dairy/Cheese,<0.001,<0.001
+Soft cheese liking,CVD,-0.130406118,Soft cheese liking_CVDP,0.03254491,soft cheese,Dairy/Cheese,<0.05,<0.05
+Total cheese liking,CVD,-0.245086942,Total cheese liking_CVDP,0.001442209,Total cheese,Dairy/Cheese,<0.01,<0.01
+Total fatty/dairy food liking,CVD,-0.11172486,Total fatty/dairy food liking_CVDP,0.387665378,Total fatty/dairy food,Dairy/Cheese,>0.05,>0.05
+Whole milk liking,CVD,-0.113376956,Whole milk liking_CVDP,0.013604382,whole milk,Dairy/Cheese,<0.05,<0.05
+Biscuits liking,T2D,-0.240134327,Biscuits liking_T2DP,0.029893948,biscuits,Dessert/Processed products,<0.05,<0.05
+Cake icing liking,T2D,-0.478227193,Cake icing liking_T2DP,3.40E-07,cake,Dessert/Processed products,<0.0001,<0.0001
+Cake liking,T2D,-0.334508277,Cake liking_T2DP,3.22E-08,cake icing,Dessert/Processed products,<0.0001,<0.0001
+Cheesecake liking,T2D,-0.28498911,Cheesecake liking_T2DP,4.35E-05,cheesecake,Dessert/Processed products,<0.0001,<0.0001
+Cream liking,T2D,0.208048847,Cream liking_T2DP,0.006275151,cream,Dessert/Processed products,<0.01,<0.01
+Dark chocolate liking,T2D,-0.108543787,Dark chocolate liking_T2DP,0.106150602,dark chocolate,Dessert/Processed products,>0.05,>0.05
+Honey liking,T2D,-0.654769249,Honey liking_T2DP,1.85E-27,honey,Dessert/Processed products,<0.0001,<0.0001
+Ice cream liking,T2D,-0.24294602,Ice cream liking_T2DP,0.034918222,ice cream,Dessert/Processed products,<0.05,<0.05
+Jam liking,T2D,-0.549405332,Jam liking_T2DP,1.17E-12,jam,Dessert/Processed products,<0.0001,<0.0001
+Marzipan liking,T2D,-0.255588922,Marzipan liking_T2DP,7.04E-07,marzipan,Dessert/Processed products,<0.0001,<0.0001
+Milky sweets liking,T2D,-0.450948546,Milky sweets liking_T2DP,0.000987381,Milky sweets,Dessert/Processed products,<0.001,<0.001
+Total cake/biscuits liking,T2D,-0.373522397,Total cake/biscuits liking_T2DP,0.002327622,Total cake/biscuits,Dessert/Processed products,<0.01,<0.01
+Total sweet food liking,T2D,-0.453733104,Total sweet food liking_T2DP,2.30E-10,sweet foods,Dessert/Processed products,<0.0001,<0.0001
+Biscuits liking,Stroke,-0.167827264,Biscuits liking_StrokeP,0.470971971,biscuits,Dessert/Processed products,>0.05,>0.05
+Cake icing liking,Stroke,0.137127629,Cake icing liking_StrokeP,0.963241916,cake,Dessert/Processed products,>0.05,>0.05
+Cake liking,Stroke,-0.131323986,Cake liking_StrokeP,0.344633915,cake icing,Dessert/Processed products,>0.05,>0.05
+Cheesecake liking,Stroke,-0.098173395,Cheesecake liking_StrokeP,0.515408202,cheesecake,Dessert/Processed products,>0.05,>0.05
+Cream liking,Stroke,-0.149473398,Cream liking_StrokeP,0.291569404,cream,Dessert/Processed products,>0.05,>0.05
+Dark chocolate liking,Stroke,-0.186469167,Dark chocolate liking_StrokeP,0.203187567,dark chocolate,Dessert/Processed products,>0.05,>0.05
+Honey liking,Stroke,0.110732687,Honey liking_StrokeP,0.963241916,honey,Dessert/Processed products,>0.05,>0.05
+Ice cream liking,Stroke,-0.050172763,Ice cream liking_StrokeP,0.841068817,ice cream,Dessert/Processed products,>0.05,>0.05
+Jam liking,Stroke,-0.186875139,Jam liking_StrokeP,0.32855272,jam,Dessert/Processed products,>0.05,>0.05
+Marzipan liking,Stroke,-0.003909742,Marzipan liking_StrokeP,0.978261904,marzipan,Dessert/Processed products,>0.05,>0.05
+Milky sweets liking,Stroke,-0.264741257,Milky sweets liking_StrokeP,0.336068584,Milky sweets,Dessert/Processed products,>0.05,>0.05
+Total cake/biscuits liking,Stroke,-0.14750788,Total cake/biscuits liking_StrokeP,0.613480165,Total cake/biscuits,Dessert/Processed products,>0.05,>0.05
+Total sweet food liking,Stroke,-0.261892724,Total sweet food liking_StrokeP,0.123089003,sweet foods,Dessert/Processed products,>0.05,>0.05
+Biscuits liking,MI,0.170593828,Biscuits liking_MIP,0.860353851,biscuits,Dessert/Processed products,>0.05,>0.05
+Cake icing liking,MI,0.01215139,Cake icing liking_MIP,0.930580329,cake,Dessert/Processed products,>0.05,>0.05
+Cake liking,MI,0.032827284,Cake liking_MIP,0.903313156,cake icing,Dessert/Processed products,>0.05,>0.05
+Cheesecake liking,MI,-0.243097395,Cheesecake liking_MIP,0.015526119,cheesecake,Dessert/Processed products,<0.05,<0.05
+Cream liking,MI,-0.277651394,Cream liking_MIP,0.003757373,cream,Dessert/Processed products,<0.01,<0.01
+Dark chocolate liking,MI,-0.218665484,Dark chocolate liking_MIP,0.023857457,dark chocolate,Dessert/Processed products,<0.05,<0.05
+Honey liking,MI,-0.067582476,Honey liking_MIP,0.541194867,honey,Dessert/Processed products,>0.05,>0.05
+Ice cream liking,MI,-0.160192478,Ice cream liking_MIP,0.349584155,ice cream,Dessert/Processed products,>0.05,>0.05
+Jam liking,MI,0.046223098,Jam liking_MIP,0.903313156,jam,Dessert/Processed products,>0.05,>0.05
+Marzipan liking,MI,-0.110650529,Marzipan liking_MIP,0.146809517,marzipan,Dessert/Processed products,>0.05,>0.05
+Milky sweets liking,MI,-0.293364563,Milky sweets liking_MIP,0.133504111,Milky sweets,Dessert/Processed products,>0.05,>0.05
+Total cake/biscuits liking,MI,0.141444049,Total cake/biscuits liking_MIP,0.903313156,Total cake/biscuits,Dessert/Processed products,>0.05,>0.05
+Total sweet food liking,MI,0.14123091,Total sweet food liking_MIP,0.74105587,sweet foods,Dessert/Processed products,>0.05,>0.05
+Biscuits liking,IHD,0.119381251,Biscuits liking_IHDP,0.399415531,biscuits,Dessert/Processed products,>0.05,>0.05
+Cake icing liking,IHD,-0.04377674,Cake icing liking_IHDP,0.699708322,cake,Dessert/Processed products,>0.05,>0.05
+Cake liking,IHD,0.047623686,Cake liking_IHDP,0.540899876,cake icing,Dessert/Processed products,>0.05,>0.05
+Cheesecake liking,IHD,-0.10421678,Cheesecake liking_IHDP,0.131028203,cheesecake,Dessert/Processed products,>0.05,>0.05
+Cream liking,IHD,-0.094568619,Cream liking_IHDP,0.149146133,cream,Dessert/Processed products,>0.05,>0.05
+Dark chocolate liking,IHD,-0.183129589,Dark chocolate liking_IHDP,0.002528902,dark chocolate,Dessert/Processed products,<0.01,<0.01
+Honey liking,IHD,-0.099083128,Honey liking_IHDP,0.131857695,honey,Dessert/Processed products,>0.05,>0.05
+Ice cream liking,IHD,0.090115307,Ice cream liking_IHDP,0.540899876,ice cream,Dessert/Processed products,>0.05,>0.05
+Jam liking,IHD,0.01686689,Jam liking_IHDP,0.845437655,jam,Dessert/Processed products,>0.05,>0.05
+Marzipan liking,IHD,-0.051962465,Marzipan liking_IHDP,0.3146657,marzipan,Dessert/Processed products,>0.05,>0.05
+Milky sweets liking,IHD,-0.0041023,Milky sweets liking_IHDP,0.97200815,Milky sweets,Dessert/Processed products,>0.05,>0.05
+Total cake/biscuits liking,IHD,-0.00415397,Total cake/biscuits liking_IHDP,0.97200815,Total cake/biscuits,Dessert/Processed products,>0.05,>0.05
+Total sweet food liking,IHD,0.09267363,Total sweet food liking_IHDP,0.348818908,sweet foods,Dessert/Processed products,>0.05,>0.05
+Biscuits liking,HF,-0.082412235,Biscuits liking_HFP,0.728800988,biscuits,Dessert/Processed products,>0.05,>0.05
+Cake icing liking,HF,-0.077755932,Cake icing liking_HFP,0.728800988,cake,Dessert/Processed products,>0.05,>0.05
+Cake liking,HF,0.039456306,Cake liking_HFP,0.932761307,cake icing,Dessert/Processed products,>0.05,>0.05
+Cheesecake liking,HF,-0.199191709,Cheesecake liking_HFP,0.129252495,cheesecake,Dessert/Processed products,>0.05,>0.05
+Cream liking,HF,0.033778984,Cream liking_HFP,0.940771394,cream,Dessert/Processed products,>0.05,>0.05
+Dark chocolate liking,HF,-0.452293398,Dark chocolate liking_HFP,6.19E-05,dark chocolate,Dessert/Processed products,<0.0001,<0.0001
+Honey liking,HF,-0.115426602,Honey liking_HFP,0.413526905,honey,Dessert/Processed products,>0.05,>0.05
+Ice cream liking,HF,0.302132433,Ice cream liking_HFP,0.406647777,ice cream,Dessert/Processed products,>0.05,>0.05
+Jam liking,HF,-0.121360031,Jam liking_HFP,0.511111555,jam,Dessert/Processed products,>0.05,>0.05
+Marzipan liking,HF,0.009142715,Marzipan liking_HFP,0.971561824,marzipan,Dessert/Processed products,>0.05,>0.05
+Milky sweets liking,HF,0.220150009,Milky sweets liking_HFP,0.853074358,Milky sweets,Dessert/Processed products,>0.05,>0.05
+Total cake/biscuits liking,HF,-0.146884595,Total cake/biscuits liking_HFP,0.57911665,Total cake/biscuits,Dessert/Processed products,>0.05,>0.05
+Total sweet food liking,HF,-0.038307084,Total sweet food liking_HFP,0.815108655,sweet foods,Dessert/Processed products,>0.05,>0.05
+Biscuits liking,CVD,0.102046908,Biscuits liking_CVDP,0.588707191,biscuits,Dessert/Processed products,>0.05,>0.05
+Cake icing liking,CVD,-0.007289432,Cake icing liking_CVDP,0.953241685,cake,Dessert/Processed products,>0.05,>0.05
+Cake liking,CVD,0.042075432,Cake liking_CVDP,0.648221879,cake icing,Dessert/Processed products,>0.05,>0.05
+Cheesecake liking,CVD,-0.088337998,Cheesecake liking_CVDP,0.154530148,cheesecake,Dessert/Processed products,>0.05,>0.05
+Cream liking,CVD,-0.106346076,Cream liking_CVDP,0.060453069,cream,Dessert/Processed products,>0.05,>0.05
+Dark chocolate liking,CVD,-0.179195717,Dark chocolate liking_CVDP,0.001143352,dark chocolate,Dessert/Processed products,<0.01,<0.01
+Honey liking,CVD,-0.053022943,Honey liking_CVDP,0.374434716,honey,Dessert/Processed products,>0.05,>0.05
+Ice cream liking,CVD,0.070902918,Ice cream liking_CVDP,0.648221879,ice cream,Dessert/Processed products,>0.05,>0.05
+Jam liking,CVD,0.005136423,Jam liking_CVDP,0.940304633,jam,Dessert/Processed products,>0.05,>0.05
+Marzipan liking,CVD,-0.041927882,Marzipan liking_CVDP,0.346098308,marzipan,Dessert/Processed products,>0.05,>0.05
+Milky sweets liking,CVD,-0.013114437,Milky sweets liking_CVDP,0.941140584,Milky sweets,Dessert/Processed products,>0.05,>0.05
+Total cake/biscuits liking,CVD,-0.003055864,Total cake/biscuits liking_CVDP,0.985913612,Total cake/biscuits,Dessert/Processed products,>0.05,>0.05
+Total sweet food liking,CVD,0.06790407,Total sweet food liking_CVDP,0.600158579,sweet foods,Dessert/Processed products,>0.05,>0.05
+Adding salt to food liking,T2D,0.098551686,Adding salt to food liking_T2DP,0.150298972,adding salt to foods,Flavour/Taste preference,>0.05,>0.05
+Bitter ale liking,T2D,-0.362345231,Bitter ale liking_T2DP,1.66E-09,bitter/ale,Flavour/Taste preference,<0.0001,<0.0001
+Black olive liking,T2D,-0.264765323,Black olive liking_T2DP,2.33E-09,black olives,Flavour/Taste preference,<0.0001,<0.0001
+Black pepper liking,T2D,-0.237648141,Black pepper liking_T2DP,0.002320957,black pepper,Flavour/Taste preference,<0.01,<0.01
+Capers liking,T2D,-0.360703849,Capers liking_T2DP,5.49E-07,capers,Flavour/Taste preference,<0.0001,<0.0001
+Chilli pepper liking,T2D,-0.165121996,Chilli pepper liking_T2DP,0.006903538,chilli pepper,Flavour/Taste preference,<0.01,<0.01
+Curry liking,T2D,-0.110811557,Curry liking_T2DP,0.072190932,curry,Flavour/Taste preference,>0.05,>0.05
+Extra virgin olive oil liking,T2D,-0.24334133,Extra virgin olive oil liking_T2DP,0.013195412,extra virgin olive oil,Flavour/Taste preference,<0.05,<0.05
+Green olives liking,T2D,-0.220418284,Green olives liking_T2DP,5.80E-07,green olives,Flavour/Taste preference,<0.0001,<0.0001
+Horseradish liking,T2D,-0.101269896,Horseradish liking_T2DP,0.076875567,horseradish/wasabi,Flavour/Taste preference,>0.05,>0.05
+Salad dressing liking,T2D,-0.091156855,Salad dressing liking_T2DP,0.204023841,salad dressing,Flavour/Taste preference,>0.05,>0.05
+Spicy food liking,T2D,-0.184584006,Spicy food liking_T2DP,0.002536282,spicy foods,Flavour/Taste preference,<0.01,<0.01
+Total bitter food liking,T2D,-0.026090361,Total bitter food liking_T2DP,0.809639971,bitter foods,Flavour/Taste preference,>0.05,>0.05
+Total burn/spicy liking,T2D,-0.142835208,Total burn/spicy liking_T2DP,0.033703471,Total burn/spicy,Flavour/Taste preference,<0.05,<0.05
+Total cooking flavour liking,T2D,-0.359727796,Total cooking flavour liking_T2DP,0.002014304,Total cooking flavour,Flavour/Taste preference,<0.01,<0.01
+Total fatty/salty food liking,T2D,-0.205412867,Total fatty/salty food liking_T2DP,0.08626549,Total fatty/salty food,Flavour/Taste preference,>0.05,>0.05
+Total salty food liking,T2D,-0.128784218,Total salty food liking_T2DP,0.381603359,Total salty food,Flavour/Taste preference,>0.05,>0.05
+Total savoury food liking,T2D,-0.713795987,Total savoury food liking_T2DP,0.005067841,Total savoury food,Flavour/Taste preference,<0.01,<0.01
+Total sharp flavour liking,T2D,-0.322485051,Total sharp flavour liking_T2DP,7.81E-06,Total sharp flavour,Flavour/Taste preference,<0.0001,<0.0001
+Total strong flavour liking,T2D,-0.651153569,Total strong flavour liking_T2DP,1.39E-05,Total strong flavour,Flavour/Taste preference,<0.0001,<0.0001
+Adding salt to food liking,Stroke,-0.259434123,Adding salt to food liking_StrokeP,0.093207047,adding salt to foods,Flavour/Taste preference,>0.05,>0.05
+Bitter ale liking,Stroke,-0.244926201,Bitter ale liking_StrokeP,0.064845053,bitter/ale,Flavour/Taste preference,>0.05,>0.05
+Black olive liking,Stroke,-0.184227159,Black olive liking_StrokeP,0.06299216,black olives,Flavour/Taste preference,>0.05,>0.05
+Black pepper liking,Stroke,-0.344308802,Black pepper liking_StrokeP,0.036131619,black pepper,Flavour/Taste preference,<0.05,<0.05
+Capers liking,Stroke,-0.335833057,Capers liking_StrokeP,0.029414994,capers,Flavour/Taste preference,<0.05,<0.05
+Chilli pepper liking,Stroke,-0.367112007,Chilli pepper liking_StrokeP,0.007592922,chilli pepper,Flavour/Taste preference,<0.01,<0.01
+Curry liking,Stroke,-0.414108331,Curry liking_StrokeP,0.001219159,curry,Flavour/Taste preference,<0.01,<0.01
+Extra virgin olive oil liking,Stroke,-0.408220129,Extra virgin olive oil liking_StrokeP,0.043844613,extra virgin olive oil,Flavour/Taste preference,<0.05,<0.05
+Green olives liking,Stroke,-0.22609271,Green olives liking_StrokeP,0.020823169,green olives,Flavour/Taste preference,<0.05,<0.05
+Horseradish liking,Stroke,-0.262668127,Horseradish liking_StrokeP,0.034742383,horseradish/wasabi,Flavour/Taste preference,<0.05,<0.05
+Salad dressing liking,Stroke,-0.288447032,Salad dressing liking_StrokeP,0.043844613,salad dressing,Flavour/Taste preference,<0.05,<0.05
+Spicy food liking,Stroke,-0.326266029,Spicy food liking_StrokeP,0.010574083,spicy foods,Flavour/Taste preference,<0.05,<0.05
+Total bitter food liking,Stroke,-0.15787684,Total bitter food liking_StrokeP,0.480903944,bitter foods,Flavour/Taste preference,>0.05,>0.05
+Total burn/spicy liking,Stroke,-0.066578591,Total burn/spicy liking_StrokeP,0.655681269,Total burn/spicy,Flavour/Taste preference,>0.05,>0.05
+Total cooking flavour liking,Stroke,-0.360667991,Total cooking flavour liking_StrokeP,0.179284462,Total cooking flavour,Flavour/Taste preference,>0.05,>0.05
+Total fatty/salty food liking,Stroke,-0.617286776,Total fatty/salty food liking_StrokeP,0.008870053,Total fatty/salty food,Flavour/Taste preference,<0.01,<0.01
+Total salty food liking,Stroke,-0.715577485,Total salty food liking_StrokeP,0.020823169,Total salty food,Flavour/Taste preference,<0.05,<0.05
+Total savoury food liking,Stroke,0.27266694,Total savoury food liking_StrokeP,0.963241916,Total savoury food,Flavour/Taste preference,>0.05,>0.05
+Total sharp flavour liking,Stroke,-0.249620731,Total sharp flavour liking_StrokeP,0.104110429,Total sharp flavour,Flavour/Taste preference,>0.05,>0.05
+Total strong flavour liking,Stroke,-0.679941637,Total strong flavour liking_StrokeP,0.038101961,Total strong flavour,Flavour/Taste preference,<0.05,<0.05
+Adding salt to food liking,MI,-0.164844338,Adding salt to food liking_MIP,0.115205011,adding salt to foods,Flavour/Taste preference,>0.05,>0.05
+Bitter ale liking,MI,-0.410205077,Bitter ale liking_MIP,2.34E-07,bitter/ale,Flavour/Taste preference,<0.0001,<0.0001
+Black olive liking,MI,-0.161202871,Black olive liking_MIP,0.014042179,black olives,Flavour/Taste preference,<0.05,<0.05
+Black pepper liking,MI,-0.077026479,Black pepper liking_MIP,0.549273134,black pepper,Flavour/Taste preference,>0.05,>0.05
+Capers liking,MI,-0.174881735,Capers liking_MIP,0.117918537,capers,Flavour/Taste preference,>0.05,>0.05
+Chilli pepper liking,MI,-0.141555855,Chilli pepper liking_MIP,0.133504111,chilli pepper,Flavour/Taste preference,>0.05,>0.05
+Curry liking,MI,-0.18400719,Curry liking_MIP,0.037619464,curry,Flavour/Taste preference,<0.05,<0.05
+Extra virgin olive oil liking,MI,-0.039510534,Extra virgin olive oil liking_MIP,0.827614957,extra virgin olive oil,Flavour/Taste preference,>0.05,>0.05
+Green olives liking,MI,-0.165926402,Green olives liking_MIP,0.010330188,green olives,Flavour/Taste preference,<0.05,<0.05
+Horseradish liking,MI,-0.097711651,Horseradish liking_MIP,0.259044053,horseradish/wasabi,Flavour/Taste preference,>0.05,>0.05
+Salad dressing liking,MI,-0.098945187,Salad dressing liking_MIP,0.348918286,salad dressing,Flavour/Taste preference,>0.05,>0.05
+Spicy food liking,MI,-0.19894049,Spicy food liking_MIP,0.023873301,spicy foods,Flavour/Taste preference,<0.05,<0.05
+Total bitter food liking,MI,-0.161266382,Total bitter food liking_MIP,0.317171875,bitter foods,Flavour/Taste preference,>0.05,>0.05
+Total burn/spicy liking,MI,0.006881514,Total burn/spicy liking_MIP,0.930580329,Total burn/spicy,Flavour/Taste preference,>0.05,>0.05
+Total cooking flavour liking,MI,-0.388595609,Total cooking flavour liking_MIP,0.01700341,Total cooking flavour,Flavour/Taste preference,<0.05,<0.05
+Total fatty/salty food liking,MI,-0.504693381,Total fatty/salty food liking_MIP,0.001460672,Total fatty/salty food,Flavour/Taste preference,<0.01,<0.01
+Total salty food liking,MI,-0.112536987,Total salty food liking_MIP,0.625841768,Total salty food,Flavour/Taste preference,>0.05,>0.05
+Total savoury food liking,MI,-0.077598932,Total savoury food liking_MIP,0.881884677,Total savoury food,Flavour/Taste preference,>0.05,>0.05
+Total sharp flavour liking,MI,-0.224021877,Total sharp flavour liking_MIP,0.033486192,Total sharp flavour,Flavour/Taste preference,<0.05,<0.05
+Total strong flavour liking,MI,-0.353711942,Total strong flavour liking_MIP,0.140490108,Total strong flavour,Flavour/Taste preference,>0.05,>0.05
+Adding salt to food liking,IHD,-0.120504321,Adding salt to food liking_IHDP,0.066407254,adding salt to foods,Flavour/Taste preference,>0.05,>0.05
+Bitter ale liking,IHD,-0.295939323,Bitter ale liking_IHDP,1.20E-08,bitter/ale,Flavour/Taste preference,<0.0001,<0.0001
+Black olive liking,IHD,-0.169176086,Black olive liking_IHDP,1.94E-05,black olives,Flavour/Taste preference,<0.0001,<0.0001
+Black pepper liking,IHD,-0.058177171,Black pepper liking_IHDP,0.48570603,black pepper,Flavour/Taste preference,>0.05,>0.05
+Capers liking,IHD,-0.153204891,Capers liking_IHDP,0.01666786,capers,Flavour/Taste preference,<0.05,<0.05
+Chilli pepper liking,IHD,-0.175378653,Chilli pepper liking_IHDP,0.002205814,chilli pepper,Flavour/Taste preference,<0.01,<0.01
+Curry liking,IHD,-0.199498816,Curry liking_IHDP,0.00014226,curry,Flavour/Taste preference,<0.001,<0.001
+Extra virgin olive oil liking,IHD,-0.068223321,Extra virgin olive oil liking_IHDP,0.529844323,extra virgin olive oil,Flavour/Taste preference,>0.05,>0.05
+Green olives liking,IHD,-0.173655023,Green olives liking_IHDP,8.87E-06,green olives,Flavour/Taste preference,<0.0001,<0.0001
+Horseradish liking,IHD,-0.129175489,Horseradish liking_IHDP,0.012073906,horseradish/wasabi,Flavour/Taste preference,<0.05,<0.05
+Salad dressing liking,IHD,-0.041745371,Salad dressing liking_IHDP,0.540006788,salad dressing,Flavour/Taste preference,>0.05,>0.05
+Spicy food liking,IHD,-0.202390156,Spicy food liking_IHDP,0.000153661,spicy foods,Flavour/Taste preference,<0.001,<0.001
+Total bitter food liking,IHD,-0.268638236,Total bitter food liking_IHDP,0.006384619,bitter foods,Flavour/Taste preference,<0.01,<0.01
+Total burn/spicy liking,IHD,-0.04604026,Total burn/spicy liking_IHDP,0.48570603,Total burn/spicy,Flavour/Taste preference,>0.05,>0.05
+Total cooking flavour liking,IHD,-0.200074783,Total cooking flavour liking_IHDP,0.085959699,Total cooking flavour,Flavour/Taste preference,>0.05,>0.05
+Total fatty/salty food liking,IHD,-0.21117936,Total fatty/salty food liking_IHDP,0.049955662,Total fatty/salty food,Flavour/Taste preference,<0.05,<0.05
+Total salty food liking,IHD,0.028569024,Total salty food liking_IHDP,0.845437655,Total salty food,Flavour/Taste preference,>0.05,>0.05
+Total savoury food liking,IHD,-0.096043113,Total savoury food liking_IHDP,0.771315739,Total savoury food,Flavour/Taste preference,>0.05,>0.05
+Total sharp flavour liking,IHD,-0.137000348,Total sharp flavour liking_IHDP,0.041081532,Total sharp flavour,Flavour/Taste preference,<0.05,<0.05
+Total strong flavour liking,IHD,-0.249143926,Total strong flavour liking_IHDP,0.144715476,Total strong flavour,Flavour/Taste preference,>0.05,>0.05
+Adding salt to food liking,HF,-0.057660548,Adding salt to food liking_HFP,0.69007377,adding salt to foods,Flavour/Taste preference,>0.05,>0.05
+Bitter ale liking,HF,-0.232563554,Bitter ale liking_HFP,0.040909693,bitter/ale,Flavour/Taste preference,<0.05,<0.05
+Black olive liking,HF,-0.184813505,Black olive liking_HFP,0.035937895,black olives,Flavour/Taste preference,<0.05,<0.05
+Black pepper liking,HF,-0.263988829,Black pepper liking_HFP,0.057413795,black pepper,Flavour/Taste preference,>0.05,>0.05
+Capers liking,HF,-0.013923128,Capers liking_HFP,0.91795128,capers,Flavour/Taste preference,>0.05,>0.05
+Chilli pepper liking,HF,-0.031518606,Chilli pepper liking_HFP,0.812026581,chilli pepper,Flavour/Taste preference,>0.05,>0.05
+Curry liking,HF,-0.171539846,Curry liking_HFP,0.106475156,curry,Flavour/Taste preference,>0.05,>0.05
+Extra virgin olive oil liking,HF,-0.273492655,Extra virgin olive oil liking_HFP,0.112280943,extra virgin olive oil,Flavour/Taste preference,>0.05,>0.05
+Green olives liking,HF,-0.220786716,Green olives liking_HFP,0.009753896,green olives,Flavour/Taste preference,<0.01,<0.01
+Horseradish liking,HF,-0.061013471,Horseradish liking_HFP,0.586915727,horseradish/wasabi,Flavour/Taste preference,>0.05,>0.05
+Salad dressing liking,HF,-0.355727948,Salad dressing liking_HFP,0.00268722,salad dressing,Flavour/Taste preference,<0.01,<0.01
+Spicy food liking,HF,-0.08058582,Spicy food liking_HFP,0.495716928,spicy foods,Flavour/Taste preference,>0.05,>0.05
+Total bitter food liking,HF,0.117910899,Total bitter food liking_HFP,0.884127557,bitter foods,Flavour/Taste preference,>0.05,>0.05
+Total burn/spicy liking,HF,0.052100825,Total burn/spicy liking_HFP,0.932761307,Total burn/spicy,Flavour/Taste preference,>0.05,>0.05
+Total cooking flavour liking,HF,-0.55957331,Total cooking flavour liking_HFP,0.002430647,Total cooking flavour,Flavour/Taste preference,<0.01,<0.01
+Total fatty/salty food liking,HF,-0.157754781,Total fatty/salty food liking_HFP,0.490875791,Total fatty/salty food,Flavour/Taste preference,>0.05,>0.05
+Total salty food liking,HF,0.019231489,Total salty food liking_HFP,0.971561824,Total salty food,Flavour/Taste preference,>0.05,>0.05
+Total savoury food liking,HF,-0.479014525,Total savoury food liking_HFP,0.375062416,Total savoury food,Flavour/Taste preference,>0.05,>0.05
+Total sharp flavour liking,HF,-0.031292665,Total sharp flavour liking_HFP,0.825110579,Total sharp flavour,Flavour/Taste preference,>0.05,>0.05
+Total strong flavour liking,HF,-0.40555777,Total strong flavour liking_HFP,0.124801637,Total strong flavour,Flavour/Taste preference,>0.05,>0.05
+Adding salt to food liking,CVD,-0.150321651,Adding salt to food liking_CVDP,0.009885197,adding salt to foods,Flavour/Taste preference,<0.01,<0.01
+Bitter ale liking,CVD,-0.294308773,Bitter ale liking_CVDP,7.18E-10,bitter/ale,Flavour/Taste preference,<0.0001,<0.0001
+Black olive liking,CVD,-0.18258343,Black olive liking_CVDP,4.21E-07,black olives,Flavour/Taste preference,<0.0001,<0.0001
+Black pepper liking,CVD,-0.135523158,Black pepper liking_CVDP,0.048341546,black pepper,Flavour/Taste preference,<0.05,<0.05
+Capers liking,CVD,-0.203660936,Capers liking_CVDP,0.000348764,capers,Flavour/Taste preference,<0.001,<0.001
+Chilli pepper liking,CVD,-0.194470602,Chilli pepper liking_CVDP,0.000141076,chilli pepper,Flavour/Taste preference,<0.001,<0.001
+Curry liking,CVD,-0.238732452,Curry liking_CVDP,4.52E-07,curry,Flavour/Taste preference,<0.0001,<0.0001
+Extra virgin olive oil liking,CVD,-0.110617315,Extra virgin olive oil liking_CVDP,0.229059358,extra virgin olive oil,Flavour/Taste preference,>0.05,>0.05
+Green olives liking,CVD,-0.17921595,Green olives liking_CVDP,4.52E-07,green olives,Flavour/Taste preference,<0.0001,<0.0001
+Horseradish liking,CVD,-0.130291161,Horseradish liking_CVDP,0.005371399,horseradish/wasabi,Flavour/Taste preference,<0.01,<0.01
+Salad dressing liking,CVD,-0.080299352,Salad dressing liking_CVDP,0.178028379,salad dressing,Flavour/Taste preference,>0.05,>0.05
+Spicy food liking,CVD,-0.225266648,Spicy food liking_CVDP,2.89E-06,spicy foods,Flavour/Taste preference,<0.0001,<0.0001
+Total bitter food liking,CVD,-0.228027591,Total bitter food liking_CVDP,0.011080086,bitter foods,Flavour/Taste preference,<0.05,<0.05
+Total burn/spicy liking,CVD,-0.047595241,Total burn/spicy liking_CVDP,0.407034952,Total burn/spicy,Flavour/Taste preference,>0.05,>0.05
+Total cooking flavour liking,CVD,-0.247299066,Total cooking flavour liking_CVDP,0.013604382,Total cooking flavour,Flavour/Taste preference,<0.05,<0.05
+Total fatty/salty food liking,CVD,-0.2761169,Total fatty/salty food liking_CVDP,0.003222976,Total fatty/salty food,Flavour/Taste preference,<0.01,<0.01
+Total salty food liking,CVD,-0.088200406,Total salty food liking_CVDP,0.48359937,Total salty food,Flavour/Taste preference,>0.05,>0.05
+Total savoury food liking,CVD,-0.045280078,Total savoury food liking_CVDP,0.896891622,Total savoury food,Flavour/Taste preference,>0.05,>0.05
+Total sharp flavour liking,CVD,-0.162147697,Total sharp flavour liking_CVDP,0.005971653,Total sharp flavour,Flavour/Taste preference,<0.01,<0.01
+Total strong flavour liking,CVD,-0.360143031,Total strong flavour liking_CVDP,0.011314086,Total strong flavour,Flavour/Taste preference,<0.05,<0.05
